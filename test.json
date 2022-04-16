@@ -1,0 +1,100 @@
+{
+    "position": "attack"
+    "life": {
+        "current": 7500,
+        "maximum": 7500
+    },
+    "weapon_state": {
+        "primary": {
+            "max_ammo": 0,
+            "ammo_left": 0,
+            "max_clips": 0,
+            "clips_left": 0,
+            "rate_of_fire": 0
+        },
+        "secondary": {
+            "max_ammo": 0,
+            "ammo_left": 0,
+            "max_clips": 0,
+            "clips_left": 0,
+            "rate_of_fire": 0
+        },
+        "melee": {
+            "storage_used": false
+        }
+    },
+    "weapon_settings": {
+        "primary": {
+            "priority": 0,
+            "reload": false
+        },
+        "secondary": {
+            "priority": 0,
+            "reload": false
+        },
+        "melee": {
+            "priority": 0
+        },
+        "temporary": {
+            "priority": 0,
+            "initial_setting": 0
+        }
+    },
+    "status_effects": {
+        "dealt": {
+            "demoralized": 0,
+            "frozen": 0,
+            "withered": 0,
+            "slowed": 0,
+            "weakened": 0,
+            "crippled": 0
+        },
+        "received": {
+            "demoralized": 0,
+            "frozen": 0,
+            "withered": 0,
+            "slowed": 0,
+            "weakened": 0,
+            "crippled": 0
+        }
+    },
+    "dot_effects": {
+        "burning": {
+            "initial_damage": 0,
+            "turns": 0,
+        },
+        "poisoned": {
+            "initial_damage": 0,
+            "turns": 0,
+        },
+        "lacerated": {
+            "initial_damage": 0,
+            "turns": 0
+        },
+        "severe_burning": {
+            "initial_damage": 0,
+            "turns": 0
+        }
+    },
+    "temp_effects": {}
+},
+
+"weapon_settings": {
+    "attack_settings": {
+        "type": "numbered || rng || handbag",
+        "primary": {
+            "setting": 0,
+            "reload": false
+        },
+        "secondary": {
+            "setting": 0,
+            "reload": false
+        },
+        "melee": {
+            "setting": 0
+        },
+        "temporary": {
+            "setting": 0
+        }
+    }
+}

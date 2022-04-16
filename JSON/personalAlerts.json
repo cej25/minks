@@ -1,0 +1,356 @@
+{
+  "234774386509348865": {
+    "CNC": {
+      "upper": "664",
+      "lower": ""
+    }
+  },
+  "500814764348407808": {
+    "FHG": {
+      "upper": "",
+      "lower": "563.10"
+    },
+    "WSU": {
+      "upper": "",
+      "lower": "55"
+    },
+    "CNC": {
+      "upper": "705",
+      "lower": ""
+    }
+  },
+  "559874237012246549": {
+    "WLT": {
+      "upper": "",
+      "lower": "360"
+    },
+    "FHG": {
+      "upper": "575",
+      "lower": "565"
+    },
+    "TCM": {
+      "upper": "",
+      "lower": ""
+    },
+    "HRG": {
+      "upper": "206.3",
+      "lower": ""
+    },
+    "PRN": {
+      "upper": "486",
+      "lower": ""
+    },
+    "SYS": {
+      "upper": "475",
+      "lower": ""
+    },
+    "ELT": {
+      "upper": "181",
+      "lower": ""
+    },
+    "CNC": {
+      "upper": "650",
+      "lower": ""
+    }
+  },
+  "257634883256582146": {
+    "HRG": {
+      "upper": "200",
+      "lower": ""
+    },
+    "IIL": {
+      "upper": "",
+      "lower": "64.7"
+    },
+    "CNC": {
+      "upper": "650",
+      "lower": "644"
+    }
+  },
+  "532472976096886805": {
+    "ELT": {
+      "upper": "184",
+      "lower": ""
+    }
+  },
+  "156468547164438528": {
+    "TCB": {
+      "upper": "0",
+      "lower": "0"
+    },
+    "WLT": {
+      "upper": "0",
+      "lower": "0"
+    },
+    "FHG": {
+      "upper": "0",
+      "lower": "0"
+    },
+    "THS": {
+      "upper": "340",
+      "lower": ""
+    },
+    "TMI": {
+      "upper": "153",
+      "lower": ""
+    },
+    "ELT": {
+      "upper": "0",
+      "lower": "0"
+    }
+  },
+  "269901363108904970": {},
+  "300766926928478208": {
+    "FHG": {
+      "upper": "570",
+      "lower": "564"
+    },
+    "HRG": {
+      "upper": "",
+      "lower": "197"
+    },
+    "WSU": {
+      "upper": "64",
+      "lower": ""
+    },
+    "CNC": {
+      "upper": "650",
+      "lower": "600"
+    }
+  },
+  "372867121107042315": {
+    "GRN": {
+      "upper": "",
+      "lower": "209"
+    },
+    "THS": {
+      "upper": "",
+      "lower": "326"
+    }
+  },
+  "71090325715693568": {
+    "MCS": {
+      "upper": "",
+      "lower": "558"
+    },
+    "MSG": {
+      "upper": "",
+      "lower": "140"
+    },
+    "WSU": {
+      "upper": "",
+      "lower": "59.5"
+    },
+    "IIL": {
+      "upper": "",
+      "lower": "84"
+    },
+    "TGP": {
+      "upper": "",
+      "lower": "86.4"
+    },
+    "IOU": {
+      "upper": "",
+      "lower": "139"
+    },
+    "TMI": {
+      "upper": "",
+      "lower": "148"
+    },
+    "ELT": {
+      "upper": "",
+      "lower": "171"
+    },
+    "GRN": {
+      "upper": "",
+      "lower": "208"
+    },
+    "HRG": {
+      "upper": "",
+      "lower": "190"
+    },
+    "TCT": {
+      "upper": "",
+      "lower": "218"
+    },
+    "EWM": {
+      "upper": "",
+      "lower": "264"
+    },
+    "TCP": {
+      "upper": "",
+      "lower": "265"
+    },
+    "LAG": {
+      "upper": "",
+      "lower": "280"
+    },
+    "TCC": {
+      "upper": "",
+      "lower": "290"
+    },
+    "TCM": {
+      "upper": "305",
+      "lower": "295"
+    },
+    "IST": {
+      "upper": "",
+      "lower": "130"
+    },
+    "THS": {
+      "upper": "",
+      "lower": "315"
+    },
+    "LSC": {
+      "upper": "",
+      "lower": "350"
+    },
+    "EVL": {
+      "upper": "",
+      "lower": "350"
+    },
+    "BAG": {
+      "upper": "",
+      "lower": "395"
+    },
+    "WLT": {
+      "upper": "",
+      "lower": "454"
+    },
+    "SYS": {
+      "upper": "",
+      "lower": "450"
+    },
+    "PRN": {
+      "upper": "",
+      "lower": "475"
+    },
+    "FHG": {
+      "upper": "",
+      "lower": "565"
+    },
+    "CNC": {
+      "upper": "",
+      "lower": "655"
+    },
+    "SYM": {
+      "upper": "",
+      "lower": "740"
+    },
+    "TSB": {
+      "upper": "",
+      "lower": "780"
+    },
+    "TCB": {
+      "upper": "",
+      "lower": "825"
+    }
+  },
+  "555008051338280963": {
+    "FHG": {
+      "upper": "570",
+      "lower": "564"
+    },
+    "WLT": {
+      "upper": "",
+      "lower": "436"
+    },
+    "PRN": {
+      "upper": "",
+      "lower": "461"
+    },
+    "WSU": {
+      "upper": "63",
+      "lower": ""
+    },
+    "THS": {
+      "upper": "325",
+      "lower": "317"
+    },
+    "TGP": {
+      "upper": "",
+      "lower": "86.5"
+    },
+    "BAG": {
+      "upper": "",
+      "lower": "400"
+    },
+    "IIL": {
+      "upper": "86",
+      "lower": ""
+    },
+    "HRG": {
+      "upper": "200",
+      "lower": ""
+    }
+  },
+  "372910187453087756": {
+    "IOU": {
+      "upper": "",
+      "lower": "140"
+    },
+    "TMI": {
+      "upper": "",
+      "lower": "150"
+    },
+    "GRN": {
+      "upper": "",
+      "lower": "210"
+    },
+    "TCT": {
+      "upper": "",
+      "lower": "215"
+    },
+    "ELT": {
+      "upper": "183",
+      "lower": ""
+    }
+  },
+  "251129610081796097": {
+    "WLT": {
+      "upper": "",
+      "lower": "455"
+    }
+  },
+  "157555581152919552": {},
+  "587389036004507658": {
+    "THS": {
+      "upper": "",
+      "lower": "317.5"
+    }
+  },
+  "342273652940603395": {
+    "ELT": {
+      "upper": "189.54",
+      "lower": "187.06"
+    }
+  },
+  "340612553610887168": {
+    "TSB": {
+      "upper": "",
+      "lower": "811"
+    },
+    "THS": {
+      "upper": "316",
+      "lower": "316"
+    },
+    "CNC": {
+      "upper": "",
+      "lower": "651"
+    },
+    "WLT": {
+      "upper": "",
+      "lower": "425"
+    },
+    "IOU": {
+      "upper": "",
+      "lower": "141"
+    }
+  },
+  "609240876471812097": {
+    "FHG": {
+      "upper": "",
+      "lower": "570"
+    }
+  }
+}

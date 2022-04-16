@@ -1,0 +1,8 @@
+{
+    "Pepper Spray": ["Hazmat Suit", "Motorcycle Helmet", "Welding Helmet", "Riot Helmet", "Delta Gas Mask", "Marauder Face Mask", "EOD Helmet"],
+    "Tear Gas": ["Hazmat Suit", "Delta Gas Mask"],
+    "Flash Grenade": ["Welding Helmet"],
+    "Sand": ["Hazmat Suit", "Motorcycle Helmet", "Welding Helmet", "Riot Helmet", "Delta Gask Mask", "Marauder Face Mask", "EOD Helmet"],
+    "Concussion Grenade": ["EOD Helmet"],
+    "Smoke Grenade": []
+}

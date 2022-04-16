@@ -1,0 +1,3895 @@
+{
+  "WSU": {
+    "1618819396": {
+      "price": 64.8,
+      "shares_bought": 2087345380,
+      "price_1m": 64.76,
+      "price_5m": 64.86,
+      "price_15m": 65.06,
+      "price_1h": 65.15,
+      "price_4h": 65.05
+    },
+    "1618823956": {
+      "price": 65.26,
+      "shares_bought": 1940224635,
+      "price_1m": 65.27,
+      "price_5m": 65.31,
+      "price_15m": 65.43,
+      "price_1h": 65.56,
+      "price_4h": 65.06
+    },
+    "1618825216": {
+      "price": 65.68,
+      "shares_bought": 2085870889,
+      "price_1m": 65.67,
+      "price_5m": 65.59,
+      "price_15m": 65.65,
+      "price_1h": 65.73,
+      "price_4h": 64.71
+    },
+    "1618827616": {
+      "price": 65.56,
+      "shares_bought": 2089688890,
+      "price_1m": 65.56,
+      "price_5m": 65.66,
+      "price_15m": 65.72,
+      "price_1h": 65.4,
+      "price_4h": 64.62
+    },
+    "1618828276": {
+      "price": 65.73,
+      "shares_bought": 2084284192,
+      "price_1m": 65.72,
+      "price_5m": 65.75,
+      "price_15m": 65.68,
+      "price_1h": 65.4,
+      "price_4h": 64.63
+    },
+    "1618829416": {
+      "price": 65.6,
+      "shares_bought": 2095757268,
+      "price_1m": 65.54,
+      "price_5m": 65.44,
+      "price_15m": 65.34,
+      "price_1h": 65.12,
+      "price_4h": 64.53
+    },
+    "1618830856": {
+      "price": 65.22,
+      "shares_bought": 2100582643,
+      "price_1m": 65.3,
+      "price_5m": 65.4,
+      "price_15m": 65.39,
+      "price_1h": 64.89,
+      "price_4h": 64.51
+    },
+    "1618831936": {
+      "price": 65.4,
+      "shares_bought": 2094868920,
+      "price_1m": 65.4,
+      "price_5m": 65.11,
+      "price_15m": 65.14,
+      "price_1h": 64.96,
+      "price_4h": 64.69
+    },
+    "1618836256": {
+      "price": 65.07,
+      "shares_bought": 2105424927,
+      "price_1m": 65.04,
+      "price_5m": 64.99,
+      "price_15m": 64.85,
+      "price_1h": 64.55,
+      "price_4h": 64.04
+    },
+    "1618837156": {
+      "price": 64.85,
+      "shares_bought": 2124266666,
+      "price_1m": 64.85,
+      "price_5m": 64.99,
+      "price_15m": 65.04,
+      "price_1h": 64.67,
+      "price_4h": 64.22
+    },
+    "1618838236": {
+      "price": 65.04,
+      "shares_bought": 2121355573,
+      "price_1m": 64.97,
+      "price_5m": 64.97,
+      "price_15m": 64.79,
+      "price_1h": 64.67,
+      "price_4h": 64.32
+    },
+    "1618839856": {
+      "price": 64.55,
+      "shares_bought": 7740691106,
+      "price_1m": 64.55,
+      "price_5m": 64.65,
+      "price_15m": 64.67,
+      "price_1h": 64.45,
+      "price_4h": 64.42
+    },
+    "1618846277": {
+      "price": 64.67,
+      "shares_bought": 3448290977,
+      "price_1m": 64.74,
+      "price_5m": 0,
+      "price_15m": 64.46,
+      "price_1h": 63.94,
+      "price_4h": 64.8
+    },
+    "1618846756": {
+      "price": 64.59,
+      "shares_bought": 3453536833,
+      "price_1m": 64.59,
+      "price_5m": 0,
+      "price_15m": 0,
+      "price_1h": 63.92,
+      "price_4h": 64.72
+    },
+    "1618847715": {
+      "price": 64.41,
+      "shares_bought": 3476721014,
+      "price_1m": 64.4,
+      "price_5m": 64.35,
+      "price_15m": 64.19,
+      "price_1h": 64.22,
+      "price_4h": 64.89
+    },
+    "1618848495": {
+      "price": 64.35,
+      "shares_bought": 2235480337,
+      "price_1m": 64.35,
+      "price_5m": 63.99,
+      "price_15m": 64.01,
+      "price_1h": 64.29,
+      "price_4h": 64.84
+    },
+    "1618851676": {
+      "price": 64.28,
+      "shares_bought": 1556007155,
+      "price_1m": 64.26,
+      "price_5m": 64.32,
+      "price_15m": 64.29,
+      "price_1h": 64.6,
+      "price_4h": 64.62
+    },
+    "1618852456": {
+      "price": 64.29,
+      "shares_bought": 13999066751,
+      "price_1m": 64.29,
+      "price_5m": 64.33,
+      "price_15m": 64.4,
+      "price_1h": 64.5,
+      "price_4h": 64.75
+    },
+    "1618853116": {
+      "price": 64.42,
+      "shares_bought": 2033529959,
+      "price_1m": 64.42,
+      "price_5m": 64.38,
+      "price_15m": 64.49,
+      "price_1h": 64.55,
+      "price_4h": 64.77
+    },
+    "1618859956": {
+      "price": 64.76,
+      "shares_bought": 2392452748,
+      "price_1m": 64.76,
+      "price_5m": 64.72,
+      "price_15m": 64.85,
+      "price_1h": 64.82,
+      "price_4h": 63.63
+    },
+    "1618866257": {
+      "price": 64.64,
+      "shares_bought": 11602722772,
+      "price_1m": 64.63,
+      "price_5m": 64.72,
+      "price_15m": 64.69,
+      "price_1h": 64.4,
+      "price_4h": 63.67
+    },
+    "1618873578": {
+      "price": 63.79,
+      "shares_bought": 3938325120,
+      "price_1m": 63.79,
+      "price_5m": 63.66,
+      "price_15m": 63.69,
+      "price_1h": 0,
+      "price_4h": 63.82
+    },
+    "1618874598": {
+      "price": 63.67,
+      "shares_bought": 8460500371,
+      "price_1m": 63.67,
+      "price_5m": 63.72,
+      "price_15m": 63.65,
+      "price_1h": 63.46,
+      "price_4h": 63.77
+    },
+    "1618875378": {
+      "price": 63.7,
+      "shares_bought": 1673276264,
+      "price_1m": 63.69,
+      "price_5m": 63.54,
+      "price_15m": 63.56,
+      "price_1h": 63.26,
+      "price_4h": 63.88
+    },
+    "1618878558": {
+      "price": 63.55,
+      "shares_bought": 3617816278,
+      "price_1m": 63.55,
+      "price_5m": 63.12,
+      "price_15m": 63.4,
+      "price_1h": 63.98,
+      "price_4h": 63.74
+    },
+    "1618878798": {
+      "price": 63.24,
+      "shares_bought": 1584766180,
+      "price_1m": 63.18,
+      "price_5m": 63.35,
+      "price_15m": 63.4,
+      "price_1h": 63.87,
+      "price_4h": 63.79
+    },
+    "1618881738": {
+      "price": 63.93,
+      "shares_bought": 1820479623,
+      "price_1m": 63.95,
+      "price_5m": 63.99,
+      "price_15m": 63.87,
+      "price_1h": 63.61,
+      "price_4h": 64.06
+    },
+    "1618889179": {
+      "price": 63.87,
+      "shares_bought": 7849232461,
+      "price_1m": 63.87,
+      "price_5m": 63.81,
+      "price_15m": 63.67,
+      "price_1h": 63.82,
+      "price_4h": 63.77
+    },
+    "1618889359": {
+      "price": 63.92,
+      "shares_bought": 2171589652,
+      "price_1m": 63.92,
+      "price_5m": 63.81,
+      "price_15m": 63.61,
+      "price_1h": 63.74,
+      "price_4h": 63.78
+    },
+    "1618898720": {
+      "price": 64.36,
+      "shares_bought": 1942808247,
+      "price_1m": 64.33,
+      "price_5m": 64.31,
+      "price_15m": 64.19,
+      "price_1h": 63.78,
+      "price_4h": 61.76
+    },
+    "1618899980": {
+      "price": 64.15,
+      "shares_bought": 2400623538,
+      "price_1m": 64.13,
+      "price_5m": 64.15,
+      "price_15m": 63.97,
+      "price_1h": 63.77,
+      "price_4h": 61.53
+    },
+    "1618903461": {
+      "price": 63.79,
+      "shares_bought": 3770819263,
+      "price_1m": 63.78,
+      "price_5m": 63.78,
+      "price_15m": 63.67,
+      "price_1h": 62.83,
+      "price_4h": 61.68
+    },
+    "1618905681": {
+      "price": 63.18,
+      "shares_bought": 1583779360,
+      "price_1m": 63.1,
+      "price_5m": 63.23,
+      "price_15m": 63.19,
+      "price_1h": 62.6,
+      "price_4h": 61.53
+    },
+    "1618914202": {
+      "price": 61.71,
+      "shares_bought": 8448817843,
+      "price_1m": 61.71,
+      "price_5m": 61.53,
+      "price_15m": 61.5,
+      "price_1h": 61.67,
+      "price_4h": 61.57
+    },
+    "1618916782": {
+      "price": 61.52,
+      "shares_bought": 5616976904,
+      "price_1m": 61.51,
+      "price_5m": 61.66,
+      "price_15m": 61.67,
+      "price_1h": 61.48,
+      "price_4h": 61.51
+    },
+    "1618917502": {
+      "price": 61.6,
+      "shares_bought": 2935871623,
+      "price_1m": 61.6,
+      "price_5m": 61.67,
+      "price_15m": 61.67,
+      "price_1h": 61.35,
+      "price_4h": 61.46
+    },
+    "1618917622": {
+      "price": 61.62,
+      "shares_bought": 2575836341,
+      "price_1m": 61.66,
+      "price_5m": 61.65,
+      "price_15m": 61.65,
+      "price_1h": 61.39,
+      "price_4h": 61.47
+    },
+    "1618917682": {
+      "price": 61.66,
+      "shares_bought": 8364199515,
+      "price_1m": 61.67,
+      "price_5m": 61.64,
+      "price_15m": 61.61,
+      "price_1h": 61.38,
+      "price_4h": 61.48
+    },
+    "1618920082": {
+      "price": 61.67,
+      "shares_bought": 2594454360,
+      "price_1m": 61.53,
+      "price_5m": 61.48,
+      "price_15m": 61.37,
+      "price_1h": 61.72,
+      "price_4h": 61.53
+    },
+    "1618922123": {
+      "price": 61.48,
+      "shares_bought": 2276787050,
+      "price_1m": 61.41,
+      "price_5m": 61.51,
+      "price_15m": 61.59,
+      "price_1h": 61.45,
+      "price_4h": 61.48
+    },
+    "1618924343": {
+      "price": 61.77,
+      "shares_bought": 2735239501,
+      "price_1m": 61.77,
+      "price_5m": 61.52,
+      "price_15m": 61.53,
+      "price_1h": 0,
+      "price_4h": 61.48
+    },
+    "1618924703": {
+      "price": 61.52,
+      "shares_bought": 2146233644,
+      "price_1m": 61.47,
+      "price_5m": 61.48,
+      "price_15m": 61.51,
+      "price_1h": 61.54,
+      "price_4h": 61.45
+    },
+    "1618949597": {
+      "price": 61.45,
+      "shares_bought": 3837735196,
+      "price_1m": 61.45,
+      "price_5m": 61.46,
+      "price_15m": 61.45,
+      "price_1h": 61.62,
+      "price_4h": 61.35
+    },
+    "1618949777": {
+      "price": 61.52,
+      "shares_bought": 3549509244,
+      "price_1m": 61.49,
+      "price_5m": 61.46,
+      "price_15m": 61.57,
+      "price_1h": 61.63,
+      "price_4h": 61.38
+    },
+    "1618953917": {
+      "price": 61.47,
+      "shares_bought": 2928257687,
+      "price_1m": 61.45,
+      "price_5m": 61.48,
+      "price_15m": 61.51,
+      "price_1h": 61.56,
+      "price_4h": 61.28
+    },
+    "1618956978": {
+      "price": 61.56,
+      "shares_bought": 2923976608,
+      "price_1m": 61.51,
+      "price_5m": 61.54,
+      "price_15m": 61.52,
+      "price_1h": 61.74,
+      "price_4h": 61.48
+    },
+    "1618997842": {
+      "price": 61.94,
+      "shares_bought": 2952688502,
+      "price_1m": 62.01,
+      "price_5m": 62.22,
+      "price_15m": 61.44,
+      "price_1h": 61.33,
+      "price_4h": 60.56
+    },
+    "1618998262": {
+      "price": 62.1,
+      "shares_bought": 4583129638,
+      "price_1m": 61.86,
+      "price_5m": 61.69,
+      "price_15m": 61.58,
+      "price_1h": 61.05,
+      "price_4h": 60.57
+    },
+    "1618998622": {
+      "price": 61.69,
+      "shares_bought": 2917832880,
+      "price_1m": 61.5,
+      "price_5m": 61.32,
+      "price_15m": 61.66,
+      "price_1h": 61.05,
+      "price_4h": 60.53
+    },
+    "1619004802": {
+      "price": 60.9,
+      "shares_bought": 2340994088,
+      "price_1m": 60.93,
+      "price_5m": 60.97,
+      "price_15m": 60.76,
+      "price_1h": 60.56,
+      "price_4h": 60.19
+    },
+    "1619005462": {
+      "price": 60.85,
+      "shares_bought": 5639713742,
+      "price_1m": 60.81,
+      "price_5m": 60.83,
+      "price_15m": 60.77,
+      "price_1h": 60.4,
+      "price_4h": 60.1
+    },
+    "1619017816": {
+      "price": 60.19,
+      "shares_bought": 2594801010,
+      "price_1m": 60.25,
+      "price_5m": 60.17,
+      "price_15m": 60.13,
+      "price_1h": 60.08,
+      "price_4h": 59.86
+    },
+    "1619018596": {
+      "price": 60.13,
+      "shares_bought": 2599120316,
+      "price_1m": 60.13,
+      "price_5m": 60.18,
+      "price_15m": 60.2,
+      "price_1h": 60.18,
+      "price_4h": 59.96
+    },
+    "1619026457": {
+      "price": 60.21,
+      "shares_bought": 2188050171,
+      "price_1m": 60.21,
+      "price_5m": 60.23,
+      "price_15m": 60.19,
+      "price_1h": 60.17,
+      "price_4h": 59.84
+    },
+    "1619047458": {
+      "price": 60.31,
+      "shares_bought": 6629101756,
+      "price_1m": 60.31,
+      "price_5m": 60.23,
+      "price_15m": 60.26,
+      "price_1h": 60.08,
+      "price_4h": 60.48
+    },
+    "1619073501": {
+      "price": 60.98,
+      "shares_bought": 1639912913,
+      "price_1m": 60.98,
+      "price_5m": 61.18,
+      "price_15m": 61.27,
+      "price_1h": 61.31,
+      "price_4h": 60.92
+    },
+    "1619076802": {
+      "price": 61.32,
+      "shares_bought": 2699136925,
+      "price_1m": 61.32,
+      "price_5m": 61.31,
+      "price_15m": 61.46,
+      "price_1h": 61.47,
+      "price_4h": 60.95
+    },
+    "1619098763": {
+      "price": 61.34,
+      "shares_bought": 8151297903,
+      "price_1m": 61.38,
+      "price_5m": 61.41,
+      "price_15m": 61.67,
+      "price_1h": 61.42,
+      "price_4h": 61.43
+    },
+    "1619111184": {
+      "price": 62.01,
+      "shares_bought": 2781106822,
+      "price_1m": 61.98,
+      "price_5m": 61.96,
+      "price_15m": 61.76,
+      "price_1h": 61.56,
+      "price_4h": 61.51
+    },
+    "1619137526": {
+      "price": 62.57,
+      "shares_bought": 4950525522,
+      "price_1m": 62.53,
+      "price_5m": 62.49,
+      "price_15m": 62.39,
+      "price_1h": 62.2,
+      "price_4h": 61.97
+    },
+    "1619137706": {
+      "price": 62.49,
+      "shares_bought": 2765622937,
+      "price_1m": 62.49,
+      "price_5m": 62.49,
+      "price_15m": 62.46,
+      "price_1h": 62.16,
+      "price_4h": 61.95
+    },
+    "1619161529": {
+      "price": 61.91,
+      "shares_bought": 2907446293,
+      "price_1m": 61.91,
+      "price_5m": 61.89,
+      "price_15m": 61.82,
+      "price_1h": 61.59,
+      "price_4h": 62.16
+    },
+    "1619164229": {
+      "price": 61.75,
+      "shares_bought": 2914479757,
+      "price_1m": 61.72,
+      "price_5m": 61.71,
+      "price_15m": 61.59,
+      "price_1h": 61.72,
+      "price_4h": 62.27
+    },
+    "1619176530": {
+      "price": 62.11,
+      "shares_bought": 2898084044,
+      "price_1m": 62.15,
+      "price_5m": 62.19,
+      "price_15m": 62.24,
+      "price_1h": 62.37,
+      "price_4h": 63
+    },
+    "1619190391": {
+      "price": 63,
+      "shares_bought": 2223222222,
+      "price_1m": 63.02,
+      "price_5m": 63,
+      "price_15m": 63,
+      "price_1h": 63.06,
+      "price_4h": 64.9
+    },
+    "1619196255": {
+      "price": 63.48,
+      "shares_bought": 7265371706,
+      "price_1m": 63.53,
+      "price_5m": 63.66,
+      "price_15m": 64.07,
+      "price_1h": 64.38,
+      "price_4h": 65.11
+    },
+    "1619219657": {
+      "price": 65.83,
+      "shares_bought": 2734315661,
+      "price_1m": 65.84,
+      "price_5m": 65.88,
+      "price_15m": 65.98,
+      "price_1h": 65.77,
+      "price_4h": 0
+    },
+    "1619252476": {
+      "price": 67.9,
+      "shares_bought": 2650957290,
+      "price_1m": 67.9,
+      "price_5m": 67.9,
+      "price_15m": 68.07,
+      "price_1h": 68.25,
+      "price_4h": 0
+    },
+    "1619254936": {
+      "price": 68.11,
+      "shares_bought": 2641783732,
+      "price_1m": 68.16,
+      "price_5m": 68.16,
+      "price_15m": 68.29,
+      "price_1h": 67.93,
+      "price_4h": 68.13
+    },
+    "1619256557": {
+      "price": 68.16,
+      "shares_bought": 2640845070,
+      "price_1m": 68.14,
+      "price_5m": 68.15,
+      "price_15m": 67.87,
+      "price_1h": 67.86,
+      "price_4h": 68.34
+    }
+  },
+  "BAG": {
+    "1618821196": {
+      "price": 397.73,
+      "shares_bought": 1256517928,
+      "price_1m": 397.58,
+      "price_5m": 398.37,
+      "price_15m": 399.96,
+      "price_1h": 403.04,
+      "price_4h": 402.33
+    },
+    "1618924043": {
+      "price": 409.84,
+      "shares_bought": 676017648,
+      "price_1m": 409.88,
+      "price_5m": 410.11,
+      "price_15m": 410.05,
+      "price_1h": 0,
+      "price_4h": 411.65
+    },
+    "1619173050": {
+      "price": 401.17,
+      "shares_bought": 410413753,
+      "price_1m": 401.24,
+      "price_5m": 401.24,
+      "price_15m": 401.17,
+      "price_1h": 400.96,
+      "price_4h": 401.29
+    },
+    "1619214076": {
+      "price": 403.52,
+      "shares_bought": 495638382,
+      "price_1m": 404.04,
+      "price_5m": 404.94,
+      "price_15m": 404.96,
+      "price_1h": 404.82,
+      "price_4h": 401.18
+    },
+    "1619214256": {
+      "price": 404.94,
+      "shares_bought": 493900331,
+      "price_1m": 405.08,
+      "price_5m": 405.01,
+      "price_15m": 405.1,
+      "price_1h": 404.66,
+      "price_4h": 399.72
+    },
+    "1619343439": {
+      "price": 406.85,
+      "shares_bought": 245815411,
+      "price_1m": 406.69,
+      "price_5m": 406.24,
+      "price_15m": 407.74,
+      "price_1h": 407.83,
+      "price_4h": 407.73
+    }
+  },
+  "WLT": {
+    "1618822636": {
+      "price": 436.85,
+      "shares_bought": 487291616,
+      "price_1m": 436.99,
+      "price_5m": 436.81,
+      "price_15m": 435.41,
+      "price_1h": 433.22,
+      "price_4h": 435.78
+    },
+    "1618825276": {
+      "price": 433.28,
+      "shares_bought": 776232974,
+      "price_1m": 433.65,
+      "price_5m": 433.43,
+      "price_15m": 432.93,
+      "price_1h": 434.82,
+      "price_4h": 435.44
+    },
+    "1618850056": {
+      "price": 437.61,
+      "shares_bought": 457027947,
+      "price_1m": 438.16,
+      "price_5m": 437.11,
+      "price_15m": 438.55,
+      "price_1h": 435.57,
+      "price_4h": 440.07
+    },
+    "1618850356": {
+      "price": 437.29,
+      "shares_bought": 457362391,
+      "price_1m": 437.11,
+      "price_5m": 436.65,
+      "price_15m": 437.87,
+      "price_1h": 436.36,
+      "price_4h": 439.66
+    },
+    "1618850596": {
+      "price": 435.64,
+      "shares_bought": 230744902,
+      "price_1m": 436.65,
+      "price_5m": 438.19,
+      "price_15m": 437.88,
+      "price_1h": 436.74,
+      "price_4h": 438.63
+    },
+    "1618853536": {
+      "price": 435.88,
+      "shares_bought": 229420942,
+      "price_1m": 435.45,
+      "price_5m": 435.95,
+      "price_15m": 436.7,
+      "price_1h": 439.5,
+      "price_4h": 439.22
+    },
+    "1618854196": {
+      "price": 436.54,
+      "shares_bought": 231093060,
+      "price_1m": 436.74,
+      "price_5m": 436.18,
+      "price_15m": 436.63,
+      "price_1h": 439.7,
+      "price_4h": 440.55
+    },
+    "1618855936": {
+      "price": 437.13,
+      "shares_bought": 231972489,
+      "price_1m": 436.95,
+      "price_5m": 436.98,
+      "price_15m": 438.15,
+      "price_1h": 444.59,
+      "price_4h": 441.45
+    },
+    "1618857136": {
+      "price": 438.92,
+      "shares_bought": 683496048,
+      "price_1m": 439.5,
+      "price_5m": 439.32,
+      "price_15m": 440.23,
+      "price_1h": 444.39,
+      "price_4h": 443.07
+    },
+    "1618859476": {
+      "price": 444.21,
+      "shares_bought": 368610008,
+      "price_1m": 443.85,
+      "price_5m": 447.24,
+      "price_15m": 444.65,
+      "price_1h": 441.08,
+      "price_4h": 446.33
+    },
+    "1618859716": {
+      "price": 448.03,
+      "shares_bought": 1338932269,
+      "price_1m": 447.65,
+      "price_5m": 445.15,
+      "price_15m": 444.72,
+      "price_1h": 441.62,
+      "price_4h": 446.15
+    },
+    "1618874838": {
+      "price": 451.31,
+      "shares_bought": 303415842,
+      "price_1m": 450.76,
+      "price_5m": 448.03,
+      "price_15m": 446.19,
+      "price_1h": 0,
+      "price_4h": 447.56
+    },
+    "1618875138": {
+      "price": 448.92,
+      "shares_bought": 383711275,
+      "price_1m": 448.03,
+      "price_5m": 446.86,
+      "price_15m": 447.12,
+      "price_1h": 451.14,
+      "price_4h": 447.02
+    },
+    "1618875438": {
+      "price": 447.76,
+      "shares_bought": 404924187,
+      "price_1m": 446.86,
+      "price_5m": 446.19,
+      "price_15m": 446.57,
+      "price_1h": 452.05,
+      "price_4h": 445.97
+    },
+    "1618877478": {
+      "price": 449.29,
+      "shares_bought": 240689825,
+      "price_1m": 449.48,
+      "price_5m": 448.69,
+      "price_15m": 452.73,
+      "price_1h": 449,
+      "price_4h": 446.67
+    },
+    "1618878258": {
+      "price": 452.9,
+      "shares_bought": 541810922,
+      "price_1m": 452.36,
+      "price_5m": 451.27,
+      "price_15m": 452.12,
+      "price_1h": 447.17,
+      "price_4h": 447.41
+    },
+    "1618878678": {
+      "price": 452.55,
+      "shares_bought": 555486214,
+      "price_1m": 452.38,
+      "price_5m": 451.7,
+      "price_15m": 450.36,
+      "price_1h": 445.24,
+      "price_4h": 446.67
+    },
+    "1618894580": {
+      "price": 446.48,
+      "shares_bought": 561565227,
+      "price_1m": 446.48,
+      "price_5m": 446.8,
+      "price_15m": 445.57,
+      "price_1h": 442.36,
+      "price_4h": 441.05
+    },
+    "1618934716": {
+      "price": 445.86,
+      "shares_bought": 235499932,
+      "price_1m": 445.49,
+      "price_5m": 446.04,
+      "price_15m": 445.67,
+      "price_1h": 446.13,
+      "price_4h": 446.32
+    },
+    "1618943777": {
+      "price": 445.83,
+      "shares_bought": 224301387,
+      "price_1m": 445.95,
+      "price_5m": 445.28,
+      "price_15m": 446.19,
+      "price_1h": 445.64,
+      "price_4h": 444
+    },
+    "1619009843": {
+      "price": 451.46,
+      "shares_bought": 1111703041,
+      "price_1m": 451.28,
+      "price_5m": 451.32,
+      "price_15m": 451.86,
+      "price_1h": 454.34,
+      "price_4h": 452.69
+    },
+    "1619010735": {
+      "price": 451.68,
+      "shares_bought": 514711026,
+      "price_1m": 451.86,
+      "price_5m": 452.5,
+      "price_15m": 451.05,
+      "price_1h": 456.23,
+      "price_4h": 453.33
+    },
+    "1619012776": {
+      "price": 453.58,
+      "shares_bought": 324765223,
+      "price_1m": 453.38,
+      "price_5m": 453.95,
+      "price_15m": 455.66,
+      "price_1h": 456.6,
+      "price_4h": 451.33
+    },
+    "1619038818": {
+      "price": 453.76,
+      "shares_bought": 309893072,
+      "price_1m": 453.64,
+      "price_5m": 453.49,
+      "price_15m": 451.91,
+      "price_1h": 449.82,
+      "price_4h": 448.37
+    },
+    "1619334198": {
+      "price": 463.54,
+      "shares_bought": 434327437,
+      "price_1m": 463.17,
+      "price_5m": 462.45,
+      "price_15m": 462.18,
+      "price_1h": 460.28,
+      "price_4h": 453.7
+    },
+    "1619352381": {
+      "price": 457.17,
+      "shares_bought": 247261347,
+      "price_1m": 457.93,
+      "price_5m": 457.49,
+      "price_15m": 457.06,
+      "price_1h": 463.59,
+      "price_4h": 459.94
+    },
+    "1619353041": {
+      "price": 457.82,
+      "shares_bought": 246755105,
+      "price_1m": 458.16,
+      "price_5m": 457.06,
+      "price_15m": 458.8,
+      "price_1h": 462.66,
+      "price_4h": 459.68
+    },
+    "1619371222": {
+      "price": 462.93,
+      "shares_bought": 428305009,
+      "price_1m": 462.99,
+      "price_5m": 462.73,
+      "price_15m": 461.82,
+      "price_1h": 460.27,
+      "price_4h": 458.6
+    },
+    "1619451136": {
+      "price": 473.25,
+      "shares_bought": 1067089278,
+      "price_1m": 474.1,
+      "price_5m": 473.82,
+      "price_15m": 473.37,
+      "price_1h": 0,
+      "price_4h": 0
+    }
+  },
+  "THS": {
+    "1618822936": {
+      "price": 321.37,
+      "shares_bought": 1414993100,
+      "price_1m": 321.44,
+      "price_5m": 320.97,
+      "price_15m": 321.14,
+      "price_1h": 317.48,
+      "price_4h": 320.16
+    },
+    "1618827916": {
+      "price": 318.69,
+      "shares_bought": 696602035,
+      "price_1m": 318.42,
+      "price_5m": 318.21,
+      "price_15m": 318.69,
+      "price_1h": 319.18,
+      "price_4h": 320.87
+    },
+    "1618828456": {
+      "price": 318.08,
+      "shares_bought": 694793762,
+      "price_1m": 318.41,
+      "price_5m": 318.41,
+      "price_15m": 319.06,
+      "price_1h": 319.54,
+      "price_4h": 321.69
+    },
+    "1618829596": {
+      "price": 319.13,
+      "shares_bought": 1567543111,
+      "price_1m": 319.33,
+      "price_5m": 319.48,
+      "price_15m": 319.17,
+      "price_1h": 321.1,
+      "price_4h": 322.72
+    },
+    "1618831036": {
+      "price": 319.88,
+      "shares_bought": 412947462,
+      "price_1m": 319.25,
+      "price_5m": 318.84,
+      "price_15m": 319.47,
+      "price_1h": 317.92,
+      "price_4h": 321.41
+    },
+    "1618832296": {
+      "price": 319.02,
+      "shares_bought": 596201232,
+      "price_1m": 319.09,
+      "price_5m": 320.01,
+      "price_15m": 321.1,
+      "price_1h": 319.25,
+      "price_4h": 321.69
+    },
+    "1618833616": {
+      "price": 319.57,
+      "shares_bought": 452515785,
+      "price_1m": 319.17,
+      "price_5m": 319.25,
+      "price_15m": 318.43,
+      "price_1h": 320.23,
+      "price_4h": 322.4
+    },
+    "1618834696": {
+      "price": 317.92,
+      "shares_bought": 1572722718,
+      "price_1m": 318.56,
+      "price_5m": 318.62,
+      "price_15m": 319.45,
+      "price_1h": 320.19,
+      "price_4h": 321.26
+    },
+    "1618844837": {
+      "price": 319.97,
+      "shares_bought": 1250117198,
+      "price_1m": 319.97,
+      "price_5m": 319.89,
+      "price_15m": 320.75,
+      "price_1h": 323.05,
+      "price_4h": 320.72
+    },
+    "1618845557": {
+      "price": 321.34,
+      "shares_bought": 414709493,
+      "price_1m": 320.91,
+      "price_5m": 321.61,
+      "price_15m": 321.77,
+      "price_1h": 321.48,
+      "price_4h": 321.14
+    },
+    "1618859836": {
+      "price": 321.23,
+      "shares_bought": 1556796594,
+      "price_1m": 321.3,
+      "price_5m": 321.32,
+      "price_15m": 320.7,
+      "price_1h": 320.67,
+      "price_4h": 320.89
+    },
+    "1618864697": {
+      "price": 319.84,
+      "shares_bought": 1810760301,
+      "price_1m": 319.13,
+      "price_5m": 319.68,
+      "price_15m": 319.74,
+      "price_1h": 318.73,
+      "price_4h": 319.5
+    },
+    "1618899260": {
+      "price": 318,
+      "shares_bought": 434173287,
+      "price_1m": 317.47,
+      "price_5m": 317.9,
+      "price_15m": 317.94,
+      "price_1h": 317.93,
+      "price_4h": 317.83
+    },
+    "1618907061": {
+      "price": 318.78,
+      "shares_bought": 545357537,
+      "price_1m": 318.85,
+      "price_5m": 318.3,
+      "price_15m": 318.65,
+      "price_1h": 318.08,
+      "price_4h": 317.82
+    },
+    "1618917982": {
+      "price": 317.15,
+      "shares_bought": 472962320,
+      "price_1m": 316.95,
+      "price_5m": 318.12,
+      "price_15m": 318.19,
+      "price_1h": 317.82,
+      "price_4h": 316.44
+    },
+    "1618921883": {
+      "price": 317.84,
+      "shares_bought": 440768940,
+      "price_1m": 317.84,
+      "price_5m": 317.77,
+      "price_15m": 317.34,
+      "price_1h": 314.48,
+      "price_4h": 318.34
+    },
+    "1618923863": {
+      "price": 314.46,
+      "shares_bought": 480643392,
+      "price_1m": 314.65,
+      "price_5m": 313.92,
+      "price_15m": 314.28,
+      "price_1h": 0,
+      "price_4h": 318.53
+    },
+    "1618929556": {
+      "price": 315.03,
+      "shares_bought": 1648632727,
+      "price_1m": 314.89,
+      "price_5m": 315.29,
+      "price_15m": 315.96,
+      "price_1h": 316.85,
+      "price_4h": 317.12
+    },
+    "1618937716": {
+      "price": 318.64,
+      "shares_bought": 791373158,
+      "price_1m": 318.76,
+      "price_5m": 318.57,
+      "price_15m": 318.15,
+      "price_1h": 317.81,
+      "price_4h": 316.62
+    },
+    "1618947377": {
+      "price": 317.32,
+      "shares_bought": 1418126822,
+      "price_1m": 317.12,
+      "price_5m": 317.05,
+      "price_15m": 316.52,
+      "price_1h": 316.48,
+      "price_4h": 318.53
+    }
+  },
+  "IST": {
+    "1618823176": {
+      "price": 306.68,
+      "shares_bought": 684978869,
+      "price_1m": 306.84,
+      "price_5m": 306.85,
+      "price_15m": 306.97,
+      "price_1h": 306.89,
+      "price_4h": 307.41
+    },
+    "1618843877": {
+      "price": 310.43,
+      "shares_bought": 322133815,
+      "price_1m": 310.5,
+      "price_5m": 310.59,
+      "price_15m": 310.56,
+      "price_1h": 310.75,
+      "price_4h": 310.38
+    },
+    "1618865177": {
+      "price": 312.59,
+      "shares_bought": 1452561621,
+      "price_1m": 312.71,
+      "price_5m": 312.98,
+      "price_15m": 313.9,
+      "price_1h": 313.85,
+      "price_4h": 314.68
+    },
+    "1618867397": {
+      "price": 313.45,
+      "shares_bought": 719874880,
+      "price_1m": 313.41,
+      "price_5m": 313.29,
+      "price_15m": 313.63,
+      "price_1h": 314.64,
+      "price_4h": 315.36
+    },
+    "1619036657": {
+      "price": 316.97,
+      "shares_bought": 2366318123,
+      "price_1m": 317.01,
+      "price_5m": 316.76,
+      "price_15m": 316.56,
+      "price_1h": 318.79,
+      "price_4h": 316.64
+    },
+    "1619150968": {
+      "price": 310.78,
+      "shares_bought": 370036681,
+      "price_1m": 310.74,
+      "price_5m": 310.58,
+      "price_15m": 310.43,
+      "price_1h": 309.44,
+      "price_4h": 311.75
+    },
+    "1619160869": {
+      "price": 310.09,
+      "shares_bought": 969431060,
+      "price_1m": 310.36,
+      "price_5m": 310.24,
+      "price_15m": 310.61,
+      "price_1h": 312.06,
+      "price_4h": 311.86
+    },
+    "1619161769": {
+      "price": 310.69,
+      "shares_bought": 354050661,
+      "price_1m": 310.61,
+      "price_5m": 310.53,
+      "price_15m": 310.87,
+      "price_1h": 311.75,
+      "price_4h": 311.43
+    },
+    "1619174130": {
+      "price": 312.24,
+      "shares_bought": 371509095,
+      "price_1m": 311.92,
+      "price_5m": 312.13,
+      "price_15m": 311.75,
+      "price_1h": 310.46,
+      "price_4h": 308.89
+    },
+    "1619193571": {
+      "price": 307.03,
+      "shares_bought": 752852193,
+      "price_1m": 306.6,
+      "price_5m": 307.1,
+      "price_15m": 307.64,
+      "price_1h": 306.4,
+      "price_4h": 304.73
+    },
+    "1619204716": {
+      "price": 304.73,
+      "shares_bought": 407792291,
+      "price_1m": 304.7,
+      "price_5m": 304.93,
+      "price_15m": 305.11,
+      "price_1h": 304.71,
+      "price_4h": 302.7
+    },
+    "1619227278": {
+      "price": 303.38,
+      "shares_bought": 659239260,
+      "price_1m": 303.33,
+      "price_5m": 303.33,
+      "price_15m": 302.81,
+      "price_1h": 302.95,
+      "price_4h": 0
+    },
+    "1619453836": {
+      "price": 312.07,
+      "shares_bought": 729923771,
+      "price_1m": 312.1,
+      "price_5m": 311.81,
+      "price_15m": 0,
+      "price_1h": 0,
+      "price_4h": 0
+    }
+  },
+  "TCM": {
+    "1618823596": {
+      "price": 312.56,
+      "shares_bought": 435116457,
+      "price_1m": 312.58,
+      "price_5m": 312.15,
+      "price_15m": 311.53,
+      "price_1h": 307.69,
+      "price_4h": 309.02
+    },
+    "1618868597": {
+      "price": 303.92,
+      "shares_bought": 330133540,
+      "price_1m": 303.87,
+      "price_5m": 303.67,
+      "price_15m": 303.36,
+      "price_1h": 302.89,
+      "price_4h": 302.49
+    },
+    "1618876818": {
+      "price": 303.49,
+      "shares_bought": 332038373,
+      "price_1m": 303.49,
+      "price_5m": 303.8,
+      "price_15m": 0,
+      "price_1h": 303,
+      "price_4h": 301.38
+    },
+    "1618898540": {
+      "price": 299.98,
+      "shares_bought": 687755102,
+      "price_1m": 299.8,
+      "price_5m": 300.41,
+      "price_15m": 301.46,
+      "price_1h": 301.38,
+      "price_4h": 303.62
+    },
+    "1618898720": {
+      "price": 300.2,
+      "shares_bought": 686838707,
+      "price_1m": 300.43,
+      "price_5m": 300.8,
+      "price_15m": 301.05,
+      "price_1h": 301.41,
+      "price_4h": 303.87
+    },
+    "1618899320": {
+      "price": 300.98,
+      "shares_bought": 836349290,
+      "price_1m": 301.16,
+      "price_5m": 301.05,
+      "price_15m": 302.17,
+      "price_1h": 301.84,
+      "price_4h": 303.79
+    },
+    "1618907481": {
+      "price": 302.71,
+      "shares_bought": 555885499,
+      "price_1m": 302.68,
+      "price_5m": 303.19,
+      "price_15m": 303.45,
+      "price_1h": 302.67,
+      "price_4h": 301.52
+    },
+    "1618912642": {
+      "price": 302.85,
+      "shares_bought": 556093833,
+      "price_1m": 302.85,
+      "price_5m": 303.62,
+      "price_15m": 303.68,
+      "price_1h": 302.2,
+      "price_4h": 0
+    },
+    "1618914502": {
+      "price": 303.35,
+      "shares_bought": 556808772,
+      "price_1m": 303.4,
+      "price_5m": 302.93,
+      "price_15m": 303,
+      "price_1h": 300.27,
+      "price_4h": 304.17
+    },
+    "1618918102": {
+      "price": 300.33,
+      "shares_bought": 1498351813,
+      "price_1m": 300.27,
+      "price_5m": 299.9,
+      "price_15m": 300.54,
+      "price_1h": 301.61,
+      "price_4h": 303.67
+    },
+    "1619107824": {
+      "price": 304.44,
+      "shares_bought": 377742740,
+      "price_1m": 304.15,
+      "price_5m": 304.18,
+      "price_15m": 304.14,
+      "price_1h": 304.69,
+      "price_4h": 307.29
+    },
+    "1619160689": {
+      "price": 305.97,
+      "shares_bought": 956909272,
+      "price_1m": 305.76,
+      "price_5m": 305.38,
+      "price_15m": 305.29,
+      "price_1h": 305.93,
+      "price_4h": 304.54
+    },
+    "1619202256": {
+      "price": 300.37,
+      "shares_bought": 1088556178,
+      "price_1m": 300.47,
+      "price_5m": 300.9,
+      "price_15m": 299.89,
+      "price_1h": 299.68,
+      "price_4h": 297.93
+    },
+    "1619222177": {
+      "price": 297.62,
+      "shares_bought": 377619128,
+      "price_1m": 297.79,
+      "price_5m": 297.94,
+      "price_15m": 297.22,
+      "price_1h": 297.11,
+      "price_4h": 0
+    },
+    "1619227578": {
+      "price": 296.66,
+      "shares_bought": 491470891,
+      "price_1m": 296.63,
+      "price_5m": 296.48,
+      "price_15m": 297.05,
+      "price_1h": 296.49,
+      "price_4h": 0
+    },
+    "1619302815": {
+      "price": 290.2,
+      "shares_bought": 644418337,
+      "price_1m": 295.01,
+      "price_5m": 295.13,
+      "price_15m": 295.58,
+      "price_1h": 296.66,
+      "price_4h": 296.33
+    },
+    "1619305276": {
+      "price": 297.29,
+      "shares_bought": 787208166,
+      "price_1m": 296.76,
+      "price_5m": 296.99,
+      "price_15m": 296.52,
+      "price_1h": 297.11,
+      "price_4h": 296.75
+    },
+    "1619408546": {
+      "price": 299.14,
+      "shares_bought": 855777840,
+      "price_1m": 299.01,
+      "price_5m": 299.1,
+      "price_15m": 298.65,
+      "price_1h": 297.44,
+      "price_4h": 297.33
+    }
+  },
+  "MSG": {
+    "1618828756": {
+      "price": 147.9,
+      "shares_bought": 926301555,
+      "price_1m": 147.99,
+      "price_5m": 148.18,
+      "price_15m": 148.69,
+      "price_1h": 149.48,
+      "price_4h": 149.6
+    },
+    "1618830796": {
+      "price": 149.4,
+      "shares_bought": 705352244,
+      "price_1m": 149.39,
+      "price_5m": 149.56,
+      "price_15m": 149.61,
+      "price_1h": 149.71,
+      "price_4h": 149.86
+    },
+    "1618831156": {
+      "price": 149.56,
+      "shares_bought": 812104056,
+      "price_1m": 149.56,
+      "price_5m": 149.59,
+      "price_15m": 149.62,
+      "price_1h": 149.8,
+      "price_4h": 149.37
+    },
+    "1618833496": {
+      "price": 149.47,
+      "shares_bought": 775599953,
+      "price_1m": 149.47,
+      "price_5m": 149.7,
+      "price_15m": 149.71,
+      "price_1h": 150.21,
+      "price_4h": 150.44
+    },
+    "1618834276": {
+      "price": 149.59,
+      "shares_bought": 2025796173,
+      "price_1m": 149.59,
+      "price_5m": 149.72,
+      "price_15m": 149.74,
+      "price_1h": 150.36,
+      "price_4h": 150.66
+    },
+    "1618844537": {
+      "price": 150.2,
+      "shares_bought": 1350807586,
+      "price_1m": 150.2,
+      "price_5m": 150.25,
+      "price_15m": 149.44,
+      "price_1h": 150.71,
+      "price_4h": 149.93
+    },
+    "1618869077": {
+      "price": 151.2,
+      "shares_bought": 782407105,
+      "price_1m": 151.2,
+      "price_5m": 150.93,
+      "price_15m": 151.04,
+      "price_1h": 151.08,
+      "price_4h": 150.44
+    },
+    "1618870757": {
+      "price": 151.11,
+      "shares_bought": 1323539143,
+      "price_1m": 151.14,
+      "price_5m": 151.37,
+      "price_15m": 151.17,
+      "price_1h": 151.58,
+      "price_4h": 151.45
+    },
+    "1618871777": {
+      "price": 151.18,
+      "shares_bought": 1322926313,
+      "price_1m": 151.11,
+      "price_5m": 151.16,
+      "price_15m": 151.08,
+      "price_1h": 151.34,
+      "price_4h": 152.6
+    },
+    "1618894580": {
+      "price": 153.84,
+      "shares_bought": 1690067604,
+      "price_1m": 153.88,
+      "price_5m": 153.99,
+      "price_15m": 153.79,
+      "price_1h": 152.88,
+      "price_4h": 152.71
+    },
+    "1618897880": {
+      "price": 153.06,
+      "shares_bought": 980007840,
+      "price_1m": 152.98,
+      "price_5m": 152.88,
+      "price_15m": 153.15,
+      "price_1h": 153.53,
+      "price_4h": 152.97
+    },
+    "1618898780": {
+      "price": 152.93,
+      "shares_bought": 1168912831,
+      "price_1m": 153.15,
+      "price_5m": 153.06,
+      "price_15m": 152.92,
+      "price_1h": 153.45,
+      "price_4h": 153.1
+    },
+    "1618902501": {
+      "price": 153.63,
+      "shares_bought": 1145499147,
+      "price_1m": 153.68,
+      "price_5m": 153.76,
+      "price_15m": 154.34,
+      "price_1h": 152.99,
+      "price_4h": 151.7
+    },
+    "1618902741": {
+      "price": 153.89,
+      "shares_bought": 1169666645,
+      "price_1m": 153.7,
+      "price_5m": 153.65,
+      "price_15m": 153.52,
+      "price_1h": 153.14,
+      "price_4h": 151.66
+    },
+    "1618905561": {
+      "price": 153.03,
+      "shares_bought": 1176239952,
+      "price_1m": 152.96,
+      "price_5m": 152.98,
+      "price_15m": 152.97,
+      "price_1h": 152.49,
+      "price_4h": 150.75
+    },
+    "1618913422": {
+      "price": 153.29,
+      "shares_bought": 1174244895,
+      "price_1m": 153.08,
+      "price_5m": 153.16,
+      "price_15m": 152.76,
+      "price_1h": 151.71,
+      "price_4h": 0
+    },
+    "1618930636": {
+      "price": 147.52,
+      "shares_bought": 2920399799,
+      "price_1m": 147.6,
+      "price_5m": 147.56,
+      "price_15m": 147.11,
+      "price_1h": 146.41,
+      "price_4h": 148.33
+    }
+  },
+  "TCB": {
+    "1618837696": {
+      "price": 864.44,
+      "shares_bought": 159877827,
+      "price_1m": 864.26,
+      "price_5m": 863.63,
+      "price_15m": 863.73,
+      "price_1h": 864.3,
+      "price_4h": 867.36
+    },
+    "1619009663": {
+      "price": 852.82,
+      "shares_bought": 165550159,
+      "price_1m": 853.91,
+      "price_5m": 857,
+      "price_15m": 855.22,
+      "price_1h": 847.85,
+      "price_4h": 847.68
+    },
+    "1619123905": {
+      "price": 859.09,
+      "shares_bought": 119007228,
+      "price_1m": 859.09,
+      "price_5m": 858.06,
+      "price_15m": 857.09,
+      "price_1h": 857.3,
+      "price_4h": 862.25
+    }
+  },
+  "HRG": {
+    "1618844417": {
+      "price": 210.63,
+      "shares_bought": 621940967,
+      "price_1m": 210.52,
+      "price_5m": 210.58,
+      "price_15m": 210.77,
+      "price_1h": 211.3,
+      "price_4h": 208.52
+    },
+    "1618864337": {
+      "price": 206.42,
+      "shares_bought": 2427081467,
+      "price_1m": 206.49,
+      "price_5m": 205.66,
+      "price_15m": 205.99,
+      "price_1h": 204.98,
+      "price_4h": 207.74
+    },
+    "1618876698": {
+      "price": 207.47,
+      "shares_bought": 1103774149,
+      "price_1m": 207.37,
+      "price_5m": 0,
+      "price_15m": 0,
+      "price_1h": 207.67,
+      "price_4h": 207.37
+    },
+    "1618896320": {
+      "price": 207.04,
+      "shares_bought": 2173494596,
+      "price_1m": 207.01,
+      "price_5m": 207.35,
+      "price_15m": 207.31,
+      "price_1h": 207.5,
+      "price_4h": 205.33
+    },
+    "1618914442": {
+      "price": 205.37,
+      "shares_bought": 1115061037,
+      "price_1m": 205.4,
+      "price_5m": 205.35,
+      "price_15m": 205.34,
+      "price_1h": 205.68,
+      "price_4h": 205.54
+    },
+    "1618915162": {
+      "price": 205.51,
+      "shares_bought": 821950645,
+      "price_1m": 205.5,
+      "price_5m": 205.41,
+      "price_15m": 205.88,
+      "price_1h": 205.68,
+      "price_4h": 205.3
+    },
+    "1618920923": {
+      "price": 206.34,
+      "shares_bought": 1110604336,
+      "price_1m": 206.14,
+      "price_5m": 206.55,
+      "price_15m": 206.5,
+      "price_1h": 205.98,
+      "price_4h": 207.42
+    },
+    "1619021596": {
+      "price": 205.45,
+      "shares_bought": 1460209301,
+      "price_1m": 205.42,
+      "price_5m": 205.55,
+      "price_15m": 205.56,
+      "price_1h": 205.7,
+      "price_4h": 204.47
+    },
+    "1619069121": {
+      "price": 205.5,
+      "shares_bought": 997361948,
+      "price_1m": 205.67,
+      "price_5m": 205.4,
+      "price_15m": 205.07,
+      "price_1h": 205.33,
+      "price_4h": 204.06
+    },
+    "1619136146": {
+      "price": 203.37,
+      "shares_bought": 1227118710,
+      "price_1m": 203.48,
+      "price_5m": 203.63,
+      "price_15m": 204.23,
+      "price_1h": 203.9,
+      "price_4h": 202.53
+    },
+    "1619154808": {
+      "price": 201.59,
+      "shares_bought": 1210467524,
+      "price_1m": 201.59,
+      "price_5m": 201.77,
+      "price_15m": 201.5,
+      "price_1h": 200.51,
+      "price_4h": 200.33
+    },
+    "1619164049": {
+      "price": 201.36,
+      "shares_bought": 709238308,
+      "price_1m": 201.24,
+      "price_5m": 201.05,
+      "price_15m": 201.27,
+      "price_1h": 200.6,
+      "price_4h": 200.16
+    },
+    "1619166329": {
+      "price": 201.42,
+      "shares_bought": 497472474,
+      "price_1m": 201.48,
+      "price_5m": 201.13,
+      "price_15m": 200.68,
+      "price_1h": 200.54,
+      "price_4h": 199.61
+    },
+    "1619168669": {
+      "price": 200.67,
+      "shares_bought": 1759106991,
+      "price_1m": 200.57,
+      "price_5m": 200.28,
+      "price_15m": 200.36,
+      "price_1h": 201.35,
+      "price_4h": 199.23
+    },
+    "1619169029": {
+      "price": 200.28,
+      "shares_bought": 562671700,
+      "price_1m": 200.28,
+      "price_5m": 200.22,
+      "price_15m": 200.54,
+      "price_1h": 201.8,
+      "price_4h": 199.21
+    },
+    "1619170650": {
+      "price": 201.16,
+      "shares_bought": 1199211735,
+      "price_1m": 201.04,
+      "price_5m": 200.62,
+      "price_15m": 201.21,
+      "price_1h": 200.61,
+      "price_4h": 199.1
+    },
+    "1619176830": {
+      "price": 200.88,
+      "shares_bought": 2478360368,
+      "price_1m": 200.85,
+      "price_5m": 200.62,
+      "price_15m": 200.6,
+      "price_1h": 199.73,
+      "price_4h": 199.21
+    },
+    "1619179050": {
+      "price": 199.66,
+      "shares_bought": 796026566,
+      "price_1m": 199.68,
+      "price_5m": 199.6,
+      "price_15m": 199.72,
+      "price_1h": 199.13,
+      "price_4h": 199.15
+    },
+    "1619207716": {
+      "price": 202.06,
+      "shares_bought": 1257872158,
+      "price_1m": 202.07,
+      "price_5m": 201.2,
+      "price_15m": 201.85,
+      "price_1h": 200.98,
+      "price_4h": 199.08
+    },
+    "1619271558": {
+      "price": 194.47,
+      "shares_bought": 772002197,
+      "price_1m": 194.54,
+      "price_5m": 195.04,
+      "price_15m": 195.3,
+      "price_1h": 194.41,
+      "price_4h": 0
+    },
+    "1619333478": {
+      "price": 196.83,
+      "shares_bought": 1294473871,
+      "price_1m": 196.93,
+      "price_5m": 197.55,
+      "price_15m": 196.88,
+      "price_1h": 197.09,
+      "price_4h": 202.25
+    },
+    "1619341639": {
+      "price": 199.85,
+      "shares_bought": 802822330,
+      "price_1m": 200.11,
+      "price_5m": 200.03,
+      "price_15m": 199.35,
+      "price_1h": 200.69,
+      "price_4h": 203.87
+    },
+    "1619350820": {
+      "price": 202.72,
+      "shares_bought": 887934429,
+      "price_1m": 202.64,
+      "price_5m": 202.81,
+      "price_15m": 202.71,
+      "price_1h": 202.73,
+      "price_4h": 201.66
+    },
+    "1619354421": {
+      "price": 202.59,
+      "shares_bought": 888494002,
+      "price_1m": 202.73,
+      "price_5m": 203.11,
+      "price_15m": 203.64,
+      "price_1h": 202.81,
+      "price_4h": 200.19
+    },
+    "1619354901": {
+      "price": 203.32,
+      "shares_bought": 552181821,
+      "price_1m": 203.5,
+      "price_5m": 203.64,
+      "price_15m": 203.74,
+      "price_1h": 203.2,
+      "price_4h": 200.59
+    },
+    "1619355561": {
+      "price": 203.59,
+      "shares_bought": 522445837,
+      "price_1m": 203.5,
+      "price_5m": 203.84,
+      "price_15m": 203.52,
+      "price_1h": 203.29,
+      "price_4h": 199.38
+    },
+    "1619391204": {
+      "price": 195.17,
+      "shares_bought": 1024747655,
+      "price_1m": 195.27,
+      "price_5m": 194.86,
+      "price_15m": 195.3,
+      "price_1h": 195.25,
+      "price_4h": 195.41
+    },
+    "1619392044": {
+      "price": 194.92,
+      "shares_bought": 1149189411,
+      "price_1m": 195.11,
+      "price_5m": 195.34,
+      "price_15m": 195.38,
+      "price_1h": 195.36,
+      "price_4h": 195.18
+    },
+    "1619419647": {
+      "price": 196.82,
+      "shares_bought": 1345990194,
+      "price_1m": 196.65,
+      "price_5m": 196.78,
+      "price_15m": 197.15,
+      "price_1h": 196.78,
+      "price_4h": 0
+    },
+    "1619440276": {
+      "price": 195.05,
+      "shares_bought": 578156882,
+      "price_1m": 195.07,
+      "price_5m": 195.05,
+      "price_15m": 195.42,
+      "price_1h": 0,
+      "price_4h": 0
+    },
+    "1619443096": {
+      "price": 194.54,
+      "shares_bought": 562930236,
+      "price_1m": 194.49,
+      "price_5m": 194.44,
+      "price_15m": 0,
+      "price_1h": 193.84,
+      "price_4h": 0
+    }
+  },
+  "SYS": {
+    "1618856356": {
+      "price": 462.38,
+      "shares_bought": 475799364,
+      "price_1m": 462.29,
+      "price_5m": 462.81,
+      "price_15m": 462.68,
+      "price_1h": 464.73,
+      "price_4h": 469.8
+    },
+    "1618862657": {
+      "price": 467.16,
+      "shares_bought": 214109871,
+      "price_1m": 467.5,
+      "price_5m": 466.68,
+      "price_15m": 467.79,
+      "price_1h": 468.85,
+      "price_4h": 0
+    },
+    "1618864517": {
+      "price": 467.24,
+      "shares_bought": 459795486,
+      "price_1m": 467.24,
+      "price_5m": 467.2,
+      "price_15m": 468.88,
+      "price_1h": 468.81,
+      "price_4h": 471.1
+    },
+    "1618865477": {
+      "price": 468.88,
+      "shares_bought": 223013989,
+      "price_1m": 468.88,
+      "price_5m": 469.05,
+      "price_15m": 468.98,
+      "price_1h": 469.97,
+      "price_4h": 471.02
+    },
+    "1618998622": {
+      "price": 463.67,
+      "shares_bought": 360648441,
+      "price_1m": 463.67,
+      "price_5m": 463.59,
+      "price_15m": 464.12,
+      "price_1h": 464.85,
+      "price_4h": 465.67
+    },
+    "1618998802": {
+      "price": 463.94,
+      "shares_bought": 1167273032,
+      "price_1m": 463.88,
+      "price_5m": 463.66,
+      "price_15m": 464.25,
+      "price_1h": 465.45,
+      "price_4h": 465.57
+    },
+    "1619002882": {
+      "price": 465.58,
+      "shares_bought": 558219545,
+      "price_1m": 465.33,
+      "price_5m": 465.45,
+      "price_15m": 465.46,
+      "price_1h": 464.85,
+      "price_4h": 466.24
+    },
+    "1619008583": {
+      "price": 466.72,
+      "shares_bought": 507319497,
+      "price_1m": 466.47,
+      "price_5m": 466.43,
+      "price_15m": 465.86,
+      "price_1h": 464.41,
+      "price_4h": 463.88
+    },
+    "1619033777": {
+      "price": 456.2,
+      "shares_bought": 353311393,
+      "price_1m": 456.47,
+      "price_5m": 456.34,
+      "price_15m": 456.8,
+      "price_1h": 455.99,
+      "price_4h": 458.54
+    },
+    "1619033897": {
+      "price": 456.71,
+      "shares_bought": 239426482,
+      "price_1m": 456.46,
+      "price_5m": 456.37,
+      "price_15m": 457.31,
+      "price_1h": 456.14,
+      "price_4h": 458.54
+    },
+    "1619038638": {
+      "price": 458.59,
+      "shares_bought": 340974276,
+      "price_1m": 458.68,
+      "price_5m": 458.45,
+      "price_15m": 458.17,
+      "price_1h": 457.15,
+      "price_4h": 461.46
+    },
+    "1619051539": {
+      "price": 459.41,
+      "shares_bought": 1633522627,
+      "price_1m": 459.41,
+      "price_5m": 459.61,
+      "price_15m": 460.85,
+      "price_1h": 461.28,
+      "price_4h": 455.97
+    },
+    "1619051659": {
+      "price": 459.58,
+      "shares_bought": 308200451,
+      "price_1m": 459.26,
+      "price_5m": 459.69,
+      "price_15m": 460.49,
+      "price_1h": 461.49,
+      "price_4h": 456.14
+    },
+    "1619054299": {
+      "price": 460.51,
+      "shares_bought": 1628351575,
+      "price_1m": 460.34,
+      "price_5m": 461.25,
+      "price_15m": 461.24,
+      "price_1h": 459.56,
+      "price_4h": 455.01
+    },
+    "1619119465": {
+      "price": 463.26,
+      "shares_bought": 1558536214,
+      "price_1m": 463.15,
+      "price_5m": 463.17,
+      "price_15m": 462.93,
+      "price_1h": 463.24,
+      "price_4h": 463.07
+    },
+    "1619161229": {
+      "price": 457.74,
+      "shares_bought": 636893655,
+      "price_1m": 457.95,
+      "price_5m": 458.31,
+      "price_15m": 457.84,
+      "price_1h": 456.62,
+      "price_4h": 459.42
+    },
+    "1619171910": {
+      "price": 457.39,
+      "shares_bought": 372867097,
+      "price_1m": 457.47,
+      "price_5m": 458.26,
+      "price_15m": 457.77,
+      "price_1h": 459.46,
+      "price_4h": 460.27
+    },
+    "1619171970": {
+      "price": 457.47,
+      "shares_bought": 525197857,
+      "price_1m": 457.55,
+      "price_5m": 457.99,
+      "price_15m": 457.52,
+      "price_1h": 459.42,
+      "price_4h": 460
+    },
+    "1619172030": {
+      "price": 457.55,
+      "shares_bought": 344769569,
+      "price_1m": 457.83,
+      "price_5m": 457.65,
+      "price_15m": 457.53,
+      "price_1h": 459.42,
+      "price_4h": 460.27
+    },
+    "1619363902": {
+      "price": 453.11,
+      "shares_bought": 439038261,
+      "price_1m": 453.01,
+      "price_5m": 452.79,
+      "price_15m": 452.71,
+      "price_1h": 451.74,
+      "price_4h": 453.13
+    }
+  },
+  "YAZ": {
+    "1618862717": {
+      "price": 35.32,
+      "shares_bought": 8494348778,
+      "price_1m": 35.29,
+      "price_5m": 35.4,
+      "price_15m": 35.44,
+      "price_1h": 35.7,
+      "price_4h": 35.66
+    },
+    "1618863077": {
+      "price": 35.4,
+      "shares_bought": 8475576430,
+      "price_1m": 35.39,
+      "price_5m": 35.41,
+      "price_15m": 35.51,
+      "price_1h": 35.73,
+      "price_4h": 35.66
+    },
+    "1618865597": {
+      "price": 35.73,
+      "shares_bought": 6821111061,
+      "price_1m": 35.73,
+      "price_5m": 35.66,
+      "price_15m": 35.71,
+      "price_1h": 35.71,
+      "price_4h": 35.7
+    },
+    "1618960698": {
+      "price": 36.56,
+      "shares_bought": 7127134064,
+      "price_1m": 36.53,
+      "price_5m": 36.53,
+      "price_15m": 36.58,
+      "price_1h": 36.77,
+      "price_4h": 36.83
+    },
+    "1618966938": {
+      "price": 36.9,
+      "shares_bought": 7048287234,
+      "price_1m": 36.89,
+      "price_5m": 36.91,
+      "price_15m": 36.95,
+      "price_1h": 36.84,
+      "price_4h": 36.67
+    }
+  },
+  "CNC": {
+    "1618870337": {
+      "price": 685.1,
+      "shares_bought": 146026832,
+      "price_1m": 683.25,
+      "price_5m": 683.96,
+      "price_15m": 684.07,
+      "price_1h": 687.34,
+      "price_4h": 689.96
+    },
+    "1619120545": {
+      "price": 663.81,
+      "shares_bought": 376655696,
+      "price_1m": 663.68,
+      "price_5m": 663.02,
+      "price_15m": 662.44,
+      "price_1h": 660.12,
+      "price_4h": 659.4
+    },
+    "1619155648": {
+      "price": 654.35,
+      "shares_bought": 372944347,
+      "price_1m": 654.35,
+      "price_5m": 654.35,
+      "price_15m": 654.95,
+      "price_1h": 656.42,
+      "price_4h": 649.52
+    },
+    "1619160869": {
+      "price": 657.1,
+      "shares_bought": 444690243,
+      "price_1m": 656.97,
+      "price_5m": 656.21,
+      "price_15m": 655.56,
+      "price_1h": 654.13,
+      "price_4h": 647.07
+    },
+    "1619171790": {
+      "price": 648.33,
+      "shares_bought": 371352551,
+      "price_1m": 648.01,
+      "price_5m": 647.58,
+      "price_15m": 648.11,
+      "price_1h": 646.91,
+      "price_4h": 645.07
+    },
+    "1619172630": {
+      "price": 647.98,
+      "shares_bought": 370383368,
+      "price_1m": 648.11,
+      "price_5m": 649.16,
+      "price_15m": 648.22,
+      "price_1h": 647.6,
+      "price_4h": 645
+    },
+    "1619172870": {
+      "price": 648.4,
+      "shares_bought": 177721554,
+      "price_1m": 648.8,
+      "price_5m": 648.08,
+      "price_15m": 647.53,
+      "price_1h": 647.37,
+      "price_4h": 644.6
+    },
+    "1619172990": {
+      "price": 649.16,
+      "shares_bought": 616180910,
+      "price_1m": 648.77,
+      "price_5m": 648.24,
+      "price_15m": 647.26,
+      "price_1h": 647.47,
+      "price_4h": 644.18
+    },
+    "1619175390": {
+      "price": 647.18,
+      "shares_bought": 186690174,
+      "price_1m": 646.91,
+      "price_5m": 646.94,
+      "price_15m": 647.37,
+      "price_1h": 644.86,
+      "price_4h": 645.94
+    },
+    "1619179770": {
+      "price": 644.66,
+      "shares_bought": 246173323,
+      "price_1m": 644.92,
+      "price_5m": 645.95,
+      "price_15m": 645.86,
+      "price_1h": 645.19,
+      "price_4h": 647.04
+    },
+    "1619180070": {
+      "price": 645.82,
+      "shares_bought": 371622575,
+      "price_1m": 645.95,
+      "price_5m": 645.85,
+      "price_15m": 645.13,
+      "price_1h": 645.26,
+      "price_4h": 647.08
+    },
+    "1619181450": {
+      "price": 644.64,
+      "shares_bought": 180539615,
+      "price_1m": 644.64,
+      "price_5m": 645.01,
+      "price_15m": 645.4,
+      "price_1h": 644.4,
+      "price_4h": 645.62
+    },
+    "1619182531": {
+      "price": 645.77,
+      "shares_bought": 370400820,
+      "price_1m": 645.36,
+      "price_5m": 646.46,
+      "price_15m": 644.96,
+      "price_1h": 644.7,
+      "price_4h": 645.59
+    },
+    "1619189011": {
+      "price": 646.03,
+      "shares_bought": 264326170,
+      "price_1m": 645.89,
+      "price_5m": 646.55,
+      "price_15m": 646.2,
+      "price_1h": 647.34,
+      "price_4h": 645.42
+    },
+    "1619193631": {
+      "price": 648.47,
+      "shares_bought": 196806695,
+      "price_1m": 648.37,
+      "price_5m": 647.61,
+      "price_15m": 646.71,
+      "price_1h": 645.79,
+      "price_4h": 642.29
+    },
+    "1619196315": {
+      "price": 646.15,
+      "shares_bought": 251118548,
+      "price_1m": 646.02,
+      "price_5m": 645.59,
+      "price_15m": 645.79,
+      "price_1h": 646.19,
+      "price_4h": 645.42
+    },
+    "1619197275": {
+      "price": 645.79,
+      "shares_bought": 373186329,
+      "price_1m": 645.76,
+      "price_5m": 646.56,
+      "price_15m": 646.85,
+      "price_1h": 646.51,
+      "price_4h": 645.28
+    },
+    "1619205076": {
+      "price": 646.12,
+      "shares_bought": 154773512,
+      "price_1m": 645.99,
+      "price_5m": 645.85,
+      "price_15m": 645.84,
+      "price_1h": 644.82,
+      "price_4h": 649.81
+    },
+    "1619205316": {
+      "price": 646.09,
+      "shares_bought": 374790520,
+      "price_1m": 646.28,
+      "price_5m": 645.85,
+      "price_15m": 646.11,
+      "price_1h": 643.74,
+      "price_4h": 649.68
+    },
+    "1619209696": {
+      "price": 645.02,
+      "shares_bought": 370185800,
+      "price_1m": 645.62,
+      "price_5m": 646.23,
+      "price_15m": 645.39,
+      "price_1h": 644.41,
+      "price_4h": 651.39
+    },
+    "1619223077": {
+      "price": 650.33,
+      "shares_bought": 250266991,
+      "price_1m": 650.33,
+      "price_5m": 651.12,
+      "price_15m": 651.52,
+      "price_1h": 649.02,
+      "price_4h": 0
+    },
+    "1619250015": {
+      "price": 643.5,
+      "shares_bought": 432037161,
+      "price_1m": 644.99,
+      "price_5m": 645.49,
+      "price_15m": 645.52,
+      "price_1h": 644,
+      "price_4h": 0
+    },
+    "1619260877": {
+      "price": 642.41,
+      "shares_bought": 377512920,
+      "price_1m": 642.68,
+      "price_5m": 642.57,
+      "price_15m": 643.1,
+      "price_1h": 0,
+      "price_4h": 636.84
+    },
+    "1619302815": {
+      "price": 639.18,
+      "shares_bought": 358189867,
+      "price_1m": 638.6,
+      "price_5m": 637.68,
+      "price_15m": 637.23,
+      "price_1h": 634.17,
+      "price_4h": 636.07
+    },
+    "1619302875": {
+      "price": 638.6,
+      "shares_bought": 369942750,
+      "price_1m": 638.21,
+      "price_5m": 637.5,
+      "price_15m": 637.23,
+      "price_1h": 634.33,
+      "price_4h": 636.04
+    },
+    "1619304195": {
+      "price": 637.94,
+      "shares_bought": 269398194,
+      "price_1m": 638.05,
+      "price_5m": 637.31,
+      "price_15m": 635.43,
+      "price_1h": 633.21,
+      "price_4h": 635.43
+    },
+    "1619316437": {
+      "price": 635.73,
+      "shares_bought": 367294308,
+      "price_1m": 635.73,
+      "price_5m": 635.47,
+      "price_15m": 636.15,
+      "price_1h": 635.15,
+      "price_4h": 633.16
+    },
+    "1619322857": {
+      "price": 633.28,
+      "shares_bought": 315816068,
+      "price_1m": 633.55,
+      "price_5m": 632.95,
+      "price_15m": 631.46,
+      "price_1h": 633.26,
+      "price_4h": 631.85
+    },
+    "1619333058": {
+      "price": 629.51,
+      "shares_bought": 317682500,
+      "price_1m": 629.91,
+      "price_5m": 629.2,
+      "price_15m": 629.39,
+      "price_1h": 631.65,
+      "price_4h": 627.65
+    },
+    "1619350820": {
+      "price": 627.79,
+      "shares_bought": 368792070,
+      "price_1m": 628.03,
+      "price_5m": 627.63,
+      "price_15m": 628.58,
+      "price_1h": 628.74,
+      "price_4h": 616.51
+    },
+    "1619352501": {
+      "price": 628.92,
+      "shares_bought": 367144498,
+      "price_1m": 629.02,
+      "price_5m": 628.76,
+      "price_15m": 629.1,
+      "price_1h": 625.91,
+      "price_4h": 618.97
+    },
+    "1619362822": {
+      "price": 624.25,
+      "shares_bought": 320384461,
+      "price_1m": 624.39,
+      "price_5m": 624.68,
+      "price_15m": 621.27,
+      "price_1h": 619.84,
+      "price_4h": 619.48
+    },
+    "1619363602": {
+      "price": 622.34,
+      "shares_bought": 289230966,
+      "price_1m": 622.77,
+      "price_5m": 619.99,
+      "price_15m": 618.22,
+      "price_1h": 618.39,
+      "price_4h": 619.75
+    },
+    "1619364502": {
+      "price": 617.71,
+      "shares_bought": 240513110,
+      "price_1m": 618.22,
+      "price_5m": 616.51,
+      "price_15m": 619.26,
+      "price_1h": 619.06,
+      "price_4h": 620.53
+    },
+    "1619365162": {
+      "price": 616.61,
+      "shares_bought": 316244976,
+      "price_1m": 616.61,
+      "price_5m": 619.34,
+      "price_15m": 619.97,
+      "price_1h": 618.19,
+      "price_4h": 620.72
+    },
+    "1619374223": {
+      "price": 616.99,
+      "shares_bought": 371724908,
+      "price_1m": 616.86,
+      "price_5m": 617.82,
+      "price_15m": 618.23,
+      "price_1h": 619.45,
+      "price_4h": 619.27
+    },
+    "1619375783": {
+      "price": 619.09,
+      "shares_bought": 357631081,
+      "price_1m": 618.93,
+      "price_5m": 619.06,
+      "price_15m": 620.09,
+      "price_1h": 620.86,
+      "price_4h": 624.72
+    },
+    "1619376263": {
+      "price": 619.66,
+      "shares_bought": 271233772,
+      "price_1m": 619.76,
+      "price_5m": 620.43,
+      "price_15m": 619.61,
+      "price_1h": 621.8,
+      "price_4h": 624.92
+    },
+    "1619377643": {
+      "price": 619.88,
+      "shares_bought": 365242389,
+      "price_1m": 620.15,
+      "price_5m": 619.61,
+      "price_15m": 620.53,
+      "price_1h": 619.77,
+      "price_4h": 626.09
+    },
+    "1619380043": {
+      "price": 622.73,
+      "shares_bought": 162552737,
+      "price_1m": 621.62,
+      "price_5m": 620.53,
+      "price_15m": 620.24,
+      "price_1h": 622.66,
+      "price_4h": 626.64
+    },
+    "1619381843": {
+      "price": 623.35,
+      "shares_bought": 364161386,
+      "price_1m": 624.27,
+      "price_5m": 622.21,
+      "price_15m": 623.96,
+      "price_1h": 618.98,
+      "price_4h": 634.08
+    },
+    "1619381963": {
+      "price": 625.28,
+      "shares_bought": 283476286,
+      "price_1m": 624.16,
+      "price_5m": 626.06,
+      "price_15m": 622.56,
+      "price_1h": 619.93,
+      "price_4h": 633.66
+    },
+    "1619382443": {
+      "price": 626.06,
+      "shares_bought": 266543617,
+      "price_1m": 625.22,
+      "price_5m": 623.96,
+      "price_15m": 621.36,
+      "price_1h": 622.17,
+      "price_4h": 634.08
+    },
+    "1619392764": {
+      "price": 626.6,
+      "shares_bought": 414633159,
+      "price_1m": 626.74,
+      "price_5m": 627.03,
+      "price_15m": 627.66,
+      "price_1h": 633.66,
+      "price_4h": 640.87
+    },
+    "1619395705": {
+      "price": 632.3,
+      "shares_bought": 294947833,
+      "price_1m": 633,
+      "price_5m": 632.93,
+      "price_15m": 633.46,
+      "price_1h": 637.06,
+      "price_4h": 639.75
+    },
+    "1619404285": {
+      "price": 640.76,
+      "shares_bought": 389687314,
+      "price_1m": 640.41,
+      "price_5m": 640.32,
+      "price_15m": 640.19,
+      "price_1h": 639.43,
+      "price_4h": 641.45
+    },
+    "1619420787": {
+      "price": 639.9,
+      "shares_bought": 281997647,
+      "price_1m": 639.49,
+      "price_5m": 638.49,
+      "price_15m": 639.45,
+      "price_1h": 637.16,
+      "price_4h": 645.1
+    },
+    "1619430508": {
+      "price": 639.27,
+      "shares_bought": 233860497,
+      "price_1m": 639.72,
+      "price_5m": 640.05,
+      "price_15m": 640.48,
+      "price_1h": 0,
+      "price_4h": 646.34
+    },
+    "1619430809": {
+      "price": 640.02,
+      "shares_bought": 242973209,
+      "price_1m": 640.05,
+      "price_5m": 640.74,
+      "price_15m": 640.58,
+      "price_1h": 0,
+      "price_4h": 645.56
+    },
+    "1619431289": {
+      "price": 641.01,
+      "shares_bought": 275308249,
+      "price_1m": 640.48,
+      "price_5m": 640.74,
+      "price_15m": 642.1,
+      "price_1h": 645.74,
+      "price_4h": 645.27
+    }
+  },
+  "SYM": {
+    "1618882218": {
+      "price": 756.91,
+      "shares_bought": 307703683,
+      "price_1m": 757.06,
+      "price_5m": 756.91,
+      "price_15m": 756.92,
+      "price_1h": 758.91,
+      "price_4h": 765.38
+    },
+    "1618972999": {
+      "price": 754.55,
+      "shares_bought": 1000433627,
+      "price_1m": 754.61,
+      "price_5m": 754.39,
+      "price_15m": 754.67,
+      "price_1h": 754.2,
+      "price_4h": 754.78
+    }
+  },
+  "TCP": {
+    "1618882398": {
+      "price": 287.35,
+      "shares_bought": 788142118,
+      "price_1m": 287.27,
+      "price_5m": 286.97,
+      "price_15m": 287.74,
+      "price_1h": 287.85,
+      "price_4h": 290.71
+    },
+    "1618973959": {
+      "price": 302.61,
+      "shares_bought": 2492456456,
+      "price_1m": 302.5,
+      "price_5m": 302.38,
+      "price_15m": 302.55,
+      "price_1h": 302.55,
+      "price_4h": 0
+    },
+    "1618978580": {
+      "price": 305.57,
+      "shares_bought": 850236994,
+      "price_1m": 305.92,
+      "price_5m": 307.57,
+      "price_15m": 305.66,
+      "price_1h": 305.22,
+      "price_4h": 302.65
+    },
+    "1618978880": {
+      "price": 306.53,
+      "shares_bought": 851554445,
+      "price_1m": 307.57,
+      "price_5m": 306.21,
+      "price_15m": 306.52,
+      "price_1h": 305.01,
+      "price_4h": 303
+    }
+  },
+  "TCC": {
+    "1618928055": {
+      "price": 317.08,
+      "shares_bought": 700425252,
+      "price_1m": 316.74,
+      "price_5m": 316.69,
+      "price_15m": 316.89,
+      "price_1h": 316.8,
+      "price_4h": 313.94
+    },
+    "1619343259": {
+      "price": 320.92,
+      "shares_bought": 488997837,
+      "price_1m": 320.98,
+      "price_5m": 319.92,
+      "price_15m": 320.7,
+      "price_1h": 318.71,
+      "price_4h": 319.52
+    }
+  },
+  "MCS": {
+    "1618939516": {
+      "price": 566.86,
+      "shares_bought": 407523026,
+      "price_1m": 566.62,
+      "price_5m": 566.86,
+      "price_15m": 565.26,
+      "price_1h": 562.22,
+      "price_4h": 559.55
+    },
+    "1618949237": {
+      "price": 559.2,
+      "shares_bought": 297829587,
+      "price_1m": 559.2,
+      "price_5m": 559.17,
+      "price_15m": 559.57,
+      "price_1h": 560.83,
+      "price_4h": 562.36
+    },
+    "1618952597": {
+      "price": 563.65,
+      "shares_bought": 551592540,
+      "price_1m": 562.13,
+      "price_5m": 560.83,
+      "price_15m": 560.44,
+      "price_1h": 560.66,
+      "price_4h": 563.09
+    },
+    "1618961718": {
+      "price": 562.35,
+      "shares_bought": 462367716,
+      "price_1m": 562.15,
+      "price_5m": 563.25,
+      "price_15m": 562.29,
+      "price_1h": 562.49,
+      "price_4h": 561.4
+    },
+    "1618967599": {
+      "price": 563.86,
+      "shares_bought": 418434527,
+      "price_1m": 564.65,
+      "price_5m": 564.62,
+      "price_15m": 564.18,
+      "price_1h": 564.26,
+      "price_4h": 563.71
+    },
+    "1618967779": {
+      "price": 564.65,
+      "shares_bought": 926394858,
+      "price_1m": 564.52,
+      "price_5m": 564.26,
+      "price_15m": 563.31,
+      "price_1h": 564.02,
+      "price_4h": 562.39
+    },
+    "1618987821": {
+      "price": 562.47,
+      "shares_bought": 178452308,
+      "price_1m": 563.11,
+      "price_5m": 562.14,
+      "price_15m": 560.05,
+      "price_1h": 560.73,
+      "price_4h": 558.92
+    },
+    "1619009895": {
+      "price": 552.38,
+      "shares_bought": 410716015,
+      "price_1m": 553.96,
+      "price_5m": 552.96,
+      "price_15m": 551.8,
+      "price_1h": 552.02,
+      "price_4h": 557.11
+    },
+    "1619014576": {
+      "price": 552.21,
+      "shares_bought": 418311897,
+      "price_1m": 552.52,
+      "price_5m": 553.69,
+      "price_15m": 553.99,
+      "price_1h": 553.78,
+      "price_4h": 560.75
+    },
+    "1619014816": {
+      "price": 553.4,
+      "shares_bought": 292962740,
+      "price_1m": 553.71,
+      "price_5m": 553.58,
+      "price_15m": 552.99,
+      "price_1h": 553.39,
+      "price_4h": 561.08
+    },
+    "1619027477": {
+      "price": 560.12,
+      "shares_bought": 291059014,
+      "price_1m": 559.76,
+      "price_5m": 559.88,
+      "price_15m": 560.21,
+      "price_1h": 561.46,
+      "price_4h": 563.4
+    },
+    "1619083462": {
+      "price": 570.63,
+      "shares_bought": 288254642,
+      "price_1m": 570.63,
+      "price_5m": 570.74,
+      "price_15m": 570.12,
+      "price_1h": 568.65,
+      "price_4h": 566.2
+    },
+    "1619162429": {
+      "price": 566.57,
+      "shares_bought": 236471159,
+      "price_1m": 566.99,
+      "price_5m": 565.8,
+      "price_15m": 567.64,
+      "price_1h": 566.98,
+      "price_4h": 574.1
+    },
+    "1619175210": {
+      "price": 572.91,
+      "shares_bought": 418315983,
+      "price_1m": 572.45,
+      "price_5m": 572.47,
+      "price_15m": 573.11,
+      "price_1h": 574.56,
+      "price_4h": 580.16
+    },
+    "1619183431": {
+      "price": 576.4,
+      "shares_bought": 661413299,
+      "price_1m": 576.8,
+      "price_5m": 577.14,
+      "price_15m": 577.38,
+      "price_1h": 580.52,
+      "price_4h": 584.41
+    },
+    "1619187091": {
+      "price": 580.52,
+      "shares_bought": 294449062,
+      "price_1m": 580.52,
+      "price_5m": 580.86,
+      "price_15m": 582.16,
+      "price_1h": 581.71,
+      "price_4h": 582.01
+    },
+    "1619193751": {
+      "price": 585,
+      "shares_bought": 857074056,
+      "price_1m": 585.23,
+      "price_5m": 586.64,
+      "price_15m": 585.71,
+      "price_1h": 583.95,
+      "price_4h": 589.51
+    },
+    "1619207836": {
+      "price": 586.42,
+      "shares_bought": 406690265,
+      "price_1m": 586.75,
+      "price_5m": 589.51,
+      "price_15m": 589.87,
+      "price_1h": 588.39,
+      "price_4h": 585.71
+    },
+    "1619339959": {
+      "price": 572.62,
+      "shares_bought": 345694423,
+      "price_1m": 572.4,
+      "price_5m": 572.87,
+      "price_15m": 573.91,
+      "price_1h": 575.64,
+      "price_4h": 578.53
+    }
+  },
+  "EVL": {
+    "1619044758": {
+      "price": 370.46,
+      "shares_bought": 434641874,
+      "price_1m": 370.38,
+      "price_5m": 370.3,
+      "price_15m": 370.29,
+      "price_1h": 370.8,
+      "price_4h": 368.77
+    },
+    "1619167829": {
+      "price": 363.07,
+      "shares_bought": 316743327,
+      "price_1m": 363.06,
+      "price_5m": 363.38,
+      "price_15m": 363.01,
+      "price_1h": 363.38,
+      "price_4h": 363
+    },
+    "1619177370": {
+      "price": 363.55,
+      "shares_bought": 825460629,
+      "price_1m": 363.43,
+      "price_5m": 363.58,
+      "price_15m": 363.72,
+      "price_1h": 363.48,
+      "price_4h": 363.69
+    },
+    "1619217257": {
+      "price": 361.29,
+      "shares_bought": 691966577,
+      "price_1m": 361.44,
+      "price_5m": 361.36,
+      "price_15m": 360.96,
+      "price_1h": 361.22,
+      "price_4h": 360.92
+    },
+    "1619360361": {
+      "price": 346.07,
+      "shares_bought": 639353686,
+      "price_1m": 346.19,
+      "price_5m": 346.15,
+      "price_15m": 346.15,
+      "price_1h": 347.13,
+      "price_4h": 346.81
+    },
+    "1619360781": {
+      "price": 346.72,
+      "shares_bought": 572662287,
+      "price_1m": 347.05,
+      "price_5m": 346.27,
+      "price_15m": 346.01,
+      "price_1h": 346.96,
+      "price_4h": 346.76
+    },
+    "1619366182": {
+      "price": 347.38,
+      "shares_bought": 734103840,
+      "price_1m": 347.58,
+      "price_5m": 347,
+      "price_15m": 346.5,
+      "price_1h": 347.06,
+      "price_4h": 348.78
+    },
+    "1619377463": {
+      "price": 347.01,
+      "shares_bought": 364322719,
+      "price_1m": 347.09,
+      "price_5m": 347.81,
+      "price_15m": 347.89,
+      "price_1h": 348.76,
+      "price_4h": 348.49
+    },
+    "1619377523": {
+      "price": 347.09,
+      "shares_bought": 289629963,
+      "price_1m": 346.97,
+      "price_5m": 347.61,
+      "price_15m": 347.69,
+      "price_1h": 348.56,
+      "price_4h": 348.65
+    },
+    "1619383403": {
+      "price": 348.68,
+      "shares_bought": 648302455,
+      "price_1m": 348.6,
+      "price_5m": 348.61,
+      "price_15m": 347.75,
+      "price_1h": 347.82,
+      "price_4h": 349.38
+    },
+    "1619389524": {
+      "price": 348.8,
+      "shares_bought": 645312396,
+      "price_1m": 348.72,
+      "price_5m": 348.49,
+      "price_15m": 348.61,
+      "price_1h": 348.02,
+      "price_4h": 348.54
+    },
+    "1619404585": {
+      "price": 347.97,
+      "shares_bought": 761454624,
+      "price_1m": 347.89,
+      "price_5m": 347.9,
+      "price_15m": 347.63,
+      "price_1h": 348.68,
+      "price_4h": 348.42
+    },
+    "1619429668": {
+      "price": 348.55,
+      "shares_bought": 344283460,
+      "price_1m": 348.51,
+      "price_5m": 348.82,
+      "price_15m": 348.25,
+      "price_1h": 0,
+      "price_4h": 0
+    },
+    "1619447596": {
+      "price": 349.31,
+      "shares_bought": 858835991,
+      "price_1m": 349.19,
+      "price_5m": 349.36,
+      "price_15m": 349.3,
+      "price_1h": 348.85,
+      "price_4h": 0
+    }
+  },
+  "FHG": {
+    "1619052559": {
+      "price": 595.93,
+      "shares_bought": 1261275362,
+      "price_1m": 596.07,
+      "price_5m": 596.36,
+      "price_15m": 594.92,
+      "price_1h": 602.42,
+      "price_4h": 610.58
+    }
+  },
+  "LSC": {
+    "1619068701": {
+      "price": 393.26,
+      "shares_bought": 1882649157,
+      "price_1m": 393.26,
+      "price_5m": 393.58,
+      "price_15m": 395.06,
+      "price_1h": 394.89,
+      "price_4h": 394.16
+    },
+    "1619115924": {
+      "price": 387.56,
+      "shares_bought": 630468064,
+      "price_1m": 384.56,
+      "price_5m": 388.37,
+      "price_15m": 0,
+      "price_1h": 383.89,
+      "price_4h": 394.02
+    },
+    "1619116104": {
+      "price": 386.88,
+      "shares_bought": 633271298,
+      "price_1m": 386.67,
+      "price_5m": 0,
+      "price_15m": 0,
+      "price_1h": 383.84,
+      "price_4h": 394.27
+    },
+    "1619120545": {
+      "price": 385.34,
+      "shares_bought": 389266621,
+      "price_1m": 386.19,
+      "price_5m": 386.94,
+      "price_15m": 386.83,
+      "price_1h": 386.43,
+      "price_4h": 397.2
+    },
+    "1619154328": {
+      "price": 397.73,
+      "shares_bought": 1788334470,
+      "price_1m": 398.04,
+      "price_5m": 397.97,
+      "price_15m": 397.81,
+      "price_1h": 398.22,
+      "price_4h": 397.07
+    },
+    "1619332998": {
+      "price": 380.4,
+      "shares_bought": 529533002,
+      "price_1m": 380.49,
+      "price_5m": 380.99,
+      "price_15m": 380.56,
+      "price_1h": 379.53,
+      "price_4h": 381.87
+    },
+    "1619343860": {
+      "price": 381.72,
+      "shares_bought": 518989499,
+      "price_1m": 381.62,
+      "price_5m": 380.97,
+      "price_15m": 382.91,
+      "price_1h": 381.83,
+      "price_4h": 381
+    },
+    "1619362642": {
+      "price": 382.82,
+      "shares_bought": 522438744,
+      "price_1m": 382.67,
+      "price_5m": 383.34,
+      "price_15m": 384.22,
+      "price_1h": 385.15,
+      "price_4h": 386.24
+    },
+    "1619376023": {
+      "price": 387.08,
+      "shares_bought": 507032539,
+      "price_1m": 386.93,
+      "price_5m": 386.75,
+      "price_15m": 386.55,
+      "price_1h": 385.8,
+      "price_4h": 386.89
+    },
+    "1619376503": {
+      "price": 386.79,
+      "shares_bought": 290586950,
+      "price_1m": 386.8,
+      "price_5m": 386.07,
+      "price_15m": 385.85,
+      "price_1h": 385.07,
+      "price_4h": 386.55
+    },
+    "1619413647": {
+      "price": 392.39,
+      "shares_bought": 281080084,
+      "price_1m": 392.6,
+      "price_5m": 392.98,
+      "price_15m": 393.71,
+      "price_1h": 392.31,
+      "price_4h": 387.18
+    },
+    "1619444116": {
+      "price": 378.93,
+      "shares_bought": 527573540,
+      "price_1m": 378.81,
+      "price_5m": 378.92,
+      "price_15m": 378.26,
+      "price_1h": 379.45,
+      "price_4h": 0
+    },
+    "1619456295": {
+      "price": 384.52,
+      "shares_bought": 777704097,
+      "price_1m": 386.09,
+      "price_5m": 0,
+      "price_15m": 0,
+      "price_1h": 0,
+      "price_4h": 0
+    }
+  },
+  "ELT": {
+    "1619078182": {
+      "price": 181.06,
+      "shares_bought": 780749856,
+      "price_1m": 181.08,
+      "price_5m": 180.4,
+      "price_15m": 180.17,
+      "price_1h": 177.61,
+      "price_4h": 178.46
+    },
+    "1619081122": {
+      "price": 178,
+      "shares_bought": 1382022504,
+      "price_1m": 177.83,
+      "price_5m": 177.6,
+      "price_15m": 177.17,
+      "price_1h": 175.34,
+      "price_4h": 178.2
+    },
+    "1619081422": {
+      "price": 178.03,
+      "shares_bought": 2808522669,
+      "price_1m": 177.6,
+      "price_5m": 177.3,
+      "price_15m": 177.16,
+      "price_1h": 175.18,
+      "price_4h": 178.39
+    },
+    "1619082802": {
+      "price": 177.46,
+      "shares_bought": 563752055,
+      "price_1m": 177.44,
+      "price_5m": 177.24,
+      "price_15m": 176.43,
+      "price_1h": 174.09,
+      "price_4h": 178.08
+    },
+    "1619084302": {
+      "price": 176.39,
+      "shares_bought": 665154300,
+      "price_1m": 175.98,
+      "price_5m": 175.63,
+      "price_15m": 174.83,
+      "price_1h": 175.3,
+      "price_4h": 177.91
+    },
+    "1619087542": {
+      "price": 175.33,
+      "shares_bought": 3503555779,
+      "price_1m": 175.46,
+      "price_5m": 175.26,
+      "price_15m": 175.44,
+      "price_1h": 176.79,
+      "price_4h": 178.72
+    },
+    "1619089222": {
+      "price": 175.76,
+      "shares_bought": 973066179,
+      "price_1m": 175.95,
+      "price_5m": 176.38,
+      "price_15m": 176.34,
+      "price_1h": 178.58,
+      "price_4h": 178.85
+    },
+    "1619090903": {
+      "price": 176.74,
+      "shares_bought": 621636613,
+      "price_1m": 176.61,
+      "price_5m": 176.88,
+      "price_15m": 177.97,
+      "price_1h": 178.81,
+      "price_4h": 179.14
+    },
+    "1619093663": {
+      "price": 178.73,
+      "shares_bought": 2238012644,
+      "price_1m": 178.46,
+      "price_5m": 178.44,
+      "price_15m": 178.77,
+      "price_1h": 178.11,
+      "price_4h": 179.42
+    },
+    "1619097983": {
+      "price": 178.16,
+      "shares_bought": 892695586,
+      "price_1m": 178.2,
+      "price_5m": 178.07,
+      "price_15m": 178.11,
+      "price_1h": 178.76,
+      "price_4h": 180.68
+    },
+    "1619109744": {
+      "price": 179.7,
+      "shares_bought": 771149928,
+      "price_1m": 179.72,
+      "price_5m": 179.84,
+      "price_15m": 180.14,
+      "price_1h": 180.63,
+      "price_4h": 179.43
+    },
+    "1619114904": {
+      "price": 180.67,
+      "shares_bought": 1660485968,
+      "price_1m": 180.63,
+      "price_5m": 180.5,
+      "price_15m": 180.51,
+      "price_1h": 179.76,
+      "price_4h": 179.43
+    },
+    "1619122105": {
+      "price": 180.28,
+      "shares_bought": 1371641254,
+      "price_1m": 180.03,
+      "price_5m": 180.11,
+      "price_15m": 180.79,
+      "price_1h": 178.82,
+      "price_4h": 181.37
+    },
+    "1619145927": {
+      "price": 183.84,
+      "shares_bought": 598346388,
+      "price_1m": 183.86,
+      "price_5m": 183.69,
+      "price_15m": 183.84,
+      "price_1h": 183.29,
+      "price_4h": 183.73
+    },
+    "1619182951": {
+      "price": 180.93,
+      "shares_bought": 1620163722,
+      "price_1m": 181.07,
+      "price_5m": 181,
+      "price_15m": 180.97,
+      "price_1h": 180.28,
+      "price_4h": 178.88
+    },
+    "1619204896": {
+      "price": 177.5,
+      "shares_bought": 1373871087,
+      "price_1m": 177.65,
+      "price_5m": 177.32,
+      "price_15m": 177.37,
+      "price_1h": 177.02,
+      "price_4h": 175.25
+    },
+    "1619204956": {
+      "price": 177.65,
+      "shares_bought": 1440455674,
+      "price_1m": 177.57,
+      "price_5m": 177.33,
+      "price_15m": 177.59,
+      "price_1h": 177.06,
+      "price_4h": 175.48
+    },
+    "1619213056": {
+      "price": 176.46,
+      "shares_bought": 682260002,
+      "price_1m": 176.73,
+      "price_5m": 176.63,
+      "price_15m": 176.66,
+      "price_1h": 177.5,
+      "price_4h": 176.45
+    },
+    "1619215757": {
+      "price": 176.96,
+      "shares_bought": 1695469744,
+      "price_1m": 177.06,
+      "price_5m": 177.21,
+      "price_15m": 177.5,
+      "price_1h": 175.48,
+      "price_4h": 175.73
+    },
+    "1619220917": {
+      "price": 174.84,
+      "shares_bought": 913376770,
+      "price_1m": 175.07,
+      "price_5m": 175.06,
+      "price_15m": 174.95,
+      "price_1h": 176.1,
+      "price_4h": 0
+    },
+    "1619228118": {
+      "price": 177.06,
+      "shares_bought": 1014979231,
+      "price_1m": 177.03,
+      "price_5m": 176.88,
+      "price_15m": 176.31,
+      "price_1h": 175.11,
+      "price_4h": 0
+    },
+    "1619233278": {
+      "price": 174.61,
+      "shares_bought": 1044989449,
+      "price_1m": 174.6,
+      "price_5m": 0,
+      "price_15m": 0,
+      "price_1h": 0,
+      "price_4h": 0
+    },
+    "1619257577": {
+      "price": 174.13,
+      "shares_bought": 928836097,
+      "price_1m": 174.17,
+      "price_5m": 173.77,
+      "price_15m": 174.22,
+      "price_1h": 174.4,
+      "price_4h": 172.37
+    },
+    "1619259737": {
+      "price": 174.29,
+      "shares_bought": 856793932,
+      "price_1m": 174.2,
+      "price_5m": 174.2,
+      "price_15m": 174.13,
+      "price_1h": 0,
+      "price_4h": 171.53
+    },
+    "1619261477": {
+      "price": 174.67,
+      "shares_bought": 1360887755,
+      "price_1m": 174.87,
+      "price_5m": 174.75,
+      "price_15m": 174.86,
+      "price_1h": 0,
+      "price_4h": 171.36
+    },
+    "1619261717": {
+      "price": 174.77,
+      "shares_bought": 1008982705,
+      "price_1m": 174.6,
+      "price_5m": 174.5,
+      "price_15m": 174.62,
+      "price_1h": 0,
+      "price_4h": 0
+    },
+    "1619274558": {
+      "price": 171.54,
+      "shares_bought": 897749795,
+      "price_1m": 171.48,
+      "price_5m": 171.4,
+      "price_15m": 171.45,
+      "price_1h": 170.63,
+      "price_4h": 0
+    },
+    "1619302815": {
+      "price": 169.78,
+      "shares_bought": 3540841170,
+      "price_1m": 171.91,
+      "price_5m": 172.06,
+      "price_15m": 171.98,
+      "price_1h": 171.95,
+      "price_4h": 171.22
+    },
+    "1619303115": {
+      "price": 172.03,
+      "shares_bought": 1162587920,
+      "price_1m": 172.06,
+      "price_5m": 172.06,
+      "price_15m": 172.08,
+      "price_1h": 171.9,
+      "price_4h": 170.98
+    },
+    "1619303955": {
+      "price": 172,
+      "shares_bought": 952141228,
+      "price_1m": 172.06,
+      "price_5m": 171.91,
+      "price_15m": 171.98,
+      "price_1h": 172.08,
+      "price_4h": 170.67
+    },
+    "1619309236": {
+      "price": 172.09,
+      "shares_bought": 1352926929,
+      "price_1m": 172.04,
+      "price_5m": 171.99,
+      "price_15m": 172.1,
+      "price_1h": 172.8,
+      "price_4h": 170.7
+    },
+    "1619312896": {
+      "price": 172.8,
+      "shares_bought": 938136453,
+      "price_1m": 172.74,
+      "price_5m": 172.63,
+      "price_15m": 173.02,
+      "price_1h": 170.98,
+      "price_4h": 170.5
+    },
+    "1619321297": {
+      "price": 170.71,
+      "shares_bought": 658753977,
+      "price_1m": 170.76,
+      "price_5m": 170.6,
+      "price_15m": 170.6,
+      "price_1h": 171.38,
+      "price_4h": 170.96
+    },
+    "1619321897": {
+      "price": 171.03,
+      "shares_bought": 709733866,
+      "price_1m": 171.03,
+      "price_5m": 170.6,
+      "price_15m": 170.43,
+      "price_1h": 171.17,
+      "price_4h": 170.97
+    },
+    "1619333118": {
+      "price": 170.02,
+      "shares_bought": 652972612,
+      "price_1m": 169.92,
+      "price_5m": 170.13,
+      "price_15m": 170,
+      "price_1h": 170.84,
+      "price_4h": 171.96
+    },
+    "1619335398": {
+      "price": 170.45,
+      "shares_bought": 892586150,
+      "price_1m": 170.69,
+      "price_5m": 170.96,
+      "price_15m": 170.97,
+      "price_1h": 170.54,
+      "price_4h": 173.85
+    },
+    "1619349620": {
+      "price": 173.9,
+      "shares_bought": 908294397,
+      "price_1m": 173.69,
+      "price_5m": 173.84,
+      "price_15m": 174.24,
+      "price_1h": 173.38,
+      "price_4h": 175.15
+    },
+    "1619350040": {
+      "price": 173.9,
+      "shares_bought": 1354510305,
+      "price_1m": 173.81,
+      "price_5m": 174.13,
+      "price_15m": 173.49,
+      "price_1h": 173.21,
+      "price_4h": 175.19
+    },
+    "1619353341": {
+      "price": 173.45,
+      "shares_bought": 938893855,
+      "price_1m": 173.47,
+      "price_5m": 173.21,
+      "price_15m": 173.08,
+      "price_1h": 173.48,
+      "price_4h": 175.8
+    },
+    "1619355321": {
+      "price": 173.84,
+      "shares_bought": 645746881,
+      "price_1m": 173.93,
+      "price_5m": 173.85,
+      "price_15m": 174.07,
+      "price_1h": 173.71,
+      "price_4h": 175.96
+    },
+    "1619355861": {
+      "price": 174.17,
+      "shares_bought": 2870758454,
+      "price_1m": 174.29,
+      "price_5m": 174.15,
+      "price_15m": 173.61,
+      "price_1h": 173.96,
+      "price_4h": 175.92
+    },
+    "1619360601": {
+      "price": 174.31,
+      "shares_bought": 882729072,
+      "price_1m": 174.57,
+      "price_5m": 174.83,
+      "price_15m": 174.73,
+      "price_1h": 175.11,
+      "price_4h": 175.72
+    },
+    "1619365222": {
+      "price": 175.72,
+      "shares_bought": 859856006,
+      "price_1m": 175.72,
+      "price_5m": 175.56,
+      "price_15m": 175.58,
+      "price_1h": 176.28,
+      "price_4h": 175.3
+    },
+    "1619367442": {
+      "price": 175.71,
+      "shares_bought": 1128012001,
+      "price_1m": 175.73,
+      "price_5m": 175.8,
+      "price_15m": 175.95,
+      "price_1h": 176.2,
+      "price_4h": 175.03
+    },
+    "1619371342": {
+      "price": 175.98,
+      "shares_bought": 645907566,
+      "price_1m": 175.99,
+      "price_5m": 176.14,
+      "price_15m": 176.3,
+      "price_1h": 175.82,
+      "price_4h": 173.82
+    },
+    "1619371702": {
+      "price": 176.14,
+      "shares_bought": 1111872727,
+      "price_1m": 176.32,
+      "price_5m": 176.42,
+      "price_15m": 176.41,
+      "price_1h": 174.98,
+      "price_4h": 173.76
+    },
+    "1619372122": {
+      "price": 176.44,
+      "shares_bought": 1008841533,
+      "price_1m": 176.42,
+      "price_5m": 176.3,
+      "price_15m": 176.49,
+      "price_1h": 174.82,
+      "price_4h": 173.72
+    },
+    "1619375423": {
+      "price": 175.3,
+      "shares_bought": 658633553,
+      "price_1m": 175.43,
+      "price_5m": 174.82,
+      "price_15m": 174.33,
+      "price_1h": 175.28,
+      "price_4h": 174.08
+    },
+    "1619377103": {
+      "price": 174.97,
+      "shares_bought": 3020658742,
+      "price_1m": 174.97,
+      "price_5m": 174.97,
+      "price_15m": 175.03,
+      "price_1h": 175.1,
+      "price_4h": 174.36
+    },
+    "1619377283": {
+      "price": 174.96,
+      "shares_bought": 640568765,
+      "price_1m": 175.04,
+      "price_5m": 174.7,
+      "price_15m": 175.02,
+      "price_1h": 175.13,
+      "price_4h": 174.3
+    },
+    "1619380403": {
+      "price": 175.96,
+      "shares_bought": 1117672928,
+      "price_1m": 175.89,
+      "price_5m": 175.1,
+      "price_15m": 174.95,
+      "price_1h": 173.82,
+      "price_4h": 173.29
+    },
+    "1619388924": {
+      "price": 174,
+      "shares_bought": 1295637537,
+      "price_1m": 174.08,
+      "price_5m": 173.93,
+      "price_15m": 174.08,
+      "price_1h": 174.1,
+      "price_4h": 173.48
+    },
+    "1619422828": {
+      "price": 172.7,
+      "shares_bought": 635122797,
+      "price_1m": 172.7,
+      "price_5m": 172.74,
+      "price_15m": 172.87,
+      "price_1h": 173.59,
+      "price_4h": 178.03
+    },
+    "1619424208": {
+      "price": 172.78,
+      "shares_bought": 1041787243,
+      "price_1m": 172.7,
+      "price_5m": 172.91,
+      "price_15m": 172.83,
+      "price_1h": 173.88,
+      "price_4h": 178.33
+    },
+    "1619429908": {
+      "price": 174.85,
+      "shares_bought": 1289384492,
+      "price_1m": 174.89,
+      "price_5m": 174.37,
+      "price_15m": 174.19,
+      "price_1h": 0,
+      "price_4h": 179.17
+    },
+    "1619429968": {
+      "price": 174.89,
+      "shares_bought": 1002031906,
+      "price_1m": 174.89,
+      "price_5m": 174.37,
+      "price_15m": 174.29,
+      "price_1h": 0,
+      "price_4h": 179.01
+    },
+    "1619437936": {
+      "price": 178.18,
+      "shares_bought": 617022946,
+      "price_1m": 178.33,
+      "price_5m": 178.58,
+      "price_15m": 178.37,
+      "price_1h": 178.65,
+      "price_4h": 179.81
+    },
+    "1619440936": {
+      "price": 178.69,
+      "shares_bought": 559628487,
+      "price_1m": 178.66,
+      "price_5m": 178.4,
+      "price_15m": 179.24,
+      "price_1h": 178.98,
+      "price_4h": 0
+    },
+    "1619441896": {
+      "price": 179.24,
+      "shares_bought": 779581945,
+      "price_1m": 179.27,
+      "price_5m": 179.39,
+      "price_15m": 179.32,
+      "price_1h": 179.1,
+      "price_4h": 179.55
+    }
+  },
+  "IIL": {
+    "1619109024": {
+      "price": 86.03,
+      "shares_bought": 2871093007,
+      "price_1m": 86.08,
+      "price_5m": 86.06,
+      "price_15m": 86.02,
+      "price_1h": 86.28,
+      "price_4h": 86.33
+    },
+    "1619109444": {
+      "price": 86.1,
+      "shares_bought": 2004287042,
+      "price_1m": 86.14,
+      "price_5m": 86.05,
+      "price_15m": 86.05,
+      "price_1h": 86.46,
+      "price_4h": 86.4
+    },
+    "1619111664": {
+      "price": 86.27,
+      "shares_bought": 1994226426,
+      "price_1m": 86.27,
+      "price_5m": 86.29,
+      "price_15m": 86.31,
+      "price_1h": 86.3,
+      "price_4h": 86.69
+    },
+    "1619117305": {
+      "price": 86.38,
+      "shares_bought": 2834240468,
+      "price_1m": 86.61,
+      "price_5m": 86.63,
+      "price_15m": 86.45,
+      "price_1h": 86.25,
+      "price_4h": 86.39
+    },
+    "1619118985": {
+      "price": 86.4,
+      "shares_bought": 2869212962,
+      "price_1m": 86.28,
+      "price_5m": 86.42,
+      "price_15m": 86.32,
+      "price_1h": 86.32,
+      "price_4h": 86.44
+    },
+    "1619120305": {
+      "price": 86.35,
+      "shares_bought": 1818480340,
+      "price_1m": 86.36,
+      "price_5m": 86.29,
+      "price_15m": 86.29,
+      "price_1h": 86.4,
+      "price_4h": 86.47
+    },
+    "1619123425": {
+      "price": 86.33,
+      "shares_bought": 2861114328,
+      "price_1m": 86.33,
+      "price_5m": 86.34,
+      "price_15m": 86.49,
+      "price_1h": 86.38,
+      "price_4h": 86.83
+    },
+    "1619125045": {
+      "price": 86.76,
+      "shares_bought": 1174344196,
+      "price_1m": 86.69,
+      "price_5m": 86.72,
+      "price_15m": 86.68,
+      "price_1h": 86.5,
+      "price_4h": 86.65
+    },
+    "1619136866": {
+      "price": 86.81,
+      "shares_bought": 2856813731,
+      "price_1m": 86.79,
+      "price_5m": 86.85,
+      "price_15m": 86.83,
+      "price_1h": 86.67,
+      "price_4h": 86.56
+    },
+    "1619141247": {
+      "price": 86.57,
+      "shares_bought": 1820661345,
+      "price_1m": 86.64,
+      "price_5m": 86.63,
+      "price_15m": 86.58,
+      "price_1h": 86.65,
+      "price_4h": 86.74
+    },
+    "1619181210": {
+      "price": 86.12,
+      "shares_bought": 2778935511,
+      "price_1m": 86.08,
+      "price_5m": 86.15,
+      "price_15m": 86.16,
+      "price_1h": 86.29,
+      "price_4h": 86.06
+    },
+    "1619250256": {
+      "price": 86.08,
+      "shares_bought": 2764869888,
+      "price_1m": 86.06,
+      "price_5m": 86.04,
+      "price_15m": 85.96,
+      "price_1h": 85.8,
+      "price_4h": 0
+    },
+    "1619254396": {
+      "price": 85.82,
+      "shares_bought": 2951829156,
+      "price_1m": 85.82,
+      "price_5m": 85.84,
+      "price_15m": 85.9,
+      "price_1h": 85.81,
+      "price_4h": 85.82
+    },
+    "1619261777": {
+      "price": 85.92,
+      "shares_bought": 2762725688,
+      "price_1m": 85.94,
+      "price_5m": 85.96,
+      "price_15m": 85.83,
+      "price_1h": 86,
+      "price_4h": 0
+    },
+    "1619304435": {
+      "price": 85.89,
+      "shares_bought": 2321001909,
+      "price_1m": 85.89,
+      "price_5m": 85.83,
+      "price_15m": 85.86,
+      "price_1h": 86.16,
+      "price_4h": 85.91
+    },
+    "1619305936": {
+      "price": 85.97,
+      "shares_bought": 2712818419,
+      "price_1m": 85.98,
+      "price_5m": 85.9,
+      "price_15m": 86.01,
+      "price_1h": 85.89,
+      "price_4h": 85.86
+    },
+    "1619342059": {
+      "price": 86.64,
+      "shares_bought": 2982703290,
+      "price_1m": 86.62,
+      "price_5m": 86.66,
+      "price_15m": 86.7,
+      "price_1h": 86.71,
+      "price_4h": 86.67
+    },
+    "1619422168": {
+      "price": 85.69,
+      "shares_bought": 1750495973,
+      "price_1m": 85.73,
+      "price_5m": 85.74,
+      "price_15m": 85.7,
+      "price_1h": 85.81,
+      "price_4h": 85.4
+    },
+    "1619425528": {
+      "price": 85.78,
+      "shares_bought": 1975473910,
+      "price_1m": 85.76,
+      "price_5m": 85.79,
+      "price_15m": 85.67,
+      "price_1h": 85.58,
+      "price_4h": 85.17
+    },
+    "1619443216": {
+      "price": 84.96,
+      "shares_bought": 1765536723,
+      "price_1m": 84.95,
+      "price_5m": 0,
+      "price_15m": 84.9,
+      "price_1h": 85.05,
+      "price_4h": 0
+    },
+    "1619453476": {
+      "price": 85.04,
+      "shares_bought": 2351834432,
+      "price_1m": 85.09,
+      "price_5m": 85.11,
+      "price_15m": 85.02,
+      "price_1h": 0,
+      "price_4h": 0
+    },
+    "1619454376": {
+      "price": 84.98,
+      "shares_bought": 2353494941,
+      "price_1m": 85.02,
+      "price_5m": 0,
+      "price_15m": 0,
+      "price_1h": 0,
+      "price_4h": 0
+    }
+  },
+  "PRN": {
+    "1619352020": {
+      "price": 479.76,
+      "shares_bought": 261777314,
+      "price_1m": 479.92,
+      "price_5m": 479.68,
+      "price_15m": 479.85,
+      "price_1h": 481.36,
+      "price_4h": 479.32
+    },
+    "1619352140": {
+      "price": 480,
+      "shares_bought": 223792360,
+      "price_1m": 480.03,
+      "price_5m": 479.45,
+      "price_15m": 480,
+      "price_1h": 481.45,
+      "price_4h": 479.41
+    },
+    "1619354121": {
+      "price": 481.08,
+      "shares_bought": 233521018,
+      "price_1m": 481.15,
+      "price_5m": 481.42,
+      "price_15m": 481.22,
+      "price_1h": 481.01,
+      "price_4h": 480.42
+    }
+  },
+  "TSB": {
+    "1619381003": {
+      "price": 811.19,
+      "shares_bought": 124005276,
+      "price_1m": 811.5,
+      "price_5m": 811.49,
+      "price_15m": 811.26,
+      "price_1h": 813.42,
+      "price_4h": 819.67
+    }
+  },
+  "EWM": {
+    "1619402485": {
+      "price": 270.97,
+      "shares_bought": 376320970,
+      "price_1m": 270.99,
+      "price_5m": 270.52,
+      "price_15m": 270.7,
+      "price_1h": 270.28,
+      "price_4h": 270.28
+    }
+  },
+  "GRN": {
+    "1619453056": {
+      "price": 211.24,
+      "shares_bought": 1072590672,
+      "price_1m": 211.2,
+      "price_5m": 211.25,
+      "price_15m": 211.42,
+      "price_1h": 0,
+      "price_4h": 0
+    },
+    "1619453296": {
+      "price": 211.24,
+      "shares_bought": 1194062328,
+      "price_1m": 211.23,
+      "price_5m": 211.29,
+      "price_15m": 211.42,
+      "price_1h": 0,
+      "price_4h": 0
+    },
+    "1619453356": {
+      "price": 211.23,
+      "shares_bought": 710126402,
+      "price_1m": 211.25,
+      "price_5m": 211.37,
+      "price_15m": 211.4,
+      "price_1h": 0,
+      "price_4h": 0
+    },
+    "1619453896": {
+      "price": 211.36,
+      "shares_bought": 1182592873,
+      "price_1m": 211.43,
+      "price_5m": 211.42,
+      "price_15m": 0,
+      "price_1h": 0,
+      "price_4h": 0
+    }
+  }
+}
