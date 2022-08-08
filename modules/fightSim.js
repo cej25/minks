@@ -11,6 +11,7 @@ let players = require('../JSON/players.json')
 let a = require('../JSON/armorCoverage.json')
 let t = require('../JSON/tempBlock.json')
 let m = require('../JSON/mods.json')
+let s  = require('../consts/structures.json')
 
 exports.simulation = async function simulation(args) {
 
@@ -30,7 +31,7 @@ exports.simulation = async function simulation(args) {
     }
 
     if (isNaN(args[1])) {
-        channel.send("Seconds argument must be a Torn ID")
+        channel.send("Second argument must be a Torn ID")
         return;
     } else {
         if (!players[args[1].toString()]) {
@@ -224,14 +225,18 @@ exports.simulation = async function simulation(args) {
 
 function fight(h,v,results) {
 
+    // initialise "fight track"
     let f_track = {};
     f_track.turns = 0, f_track.time = 300;
     f_track.escape_attempted = false, f_track.escape = false;
     f_track.life_tick = false;
 
+    // initialise "hero track" and "villain track"
     let h_track = {}, v_track = {};
     h_track.current_life = clone(h.life);
     v_track.current_life = clone(v.life);
+
+    // track.turn used for tracking whether escape attempts are possible
     h_track.turn = "miss", h_track.average_damage = 0;
     v_track.turn = "miss", v_track.average_damage = 0;
 
@@ -257,186 +262,12 @@ function fight(h,v,results) {
         },
         "temporary": "n/a"
     }
-    h_track.status_effects = {
-        "dealt": {
-            "demoralized": 0,
-            "frozen": 0,
-            "withered": 0,
-            "slowed": 0,
-            "weakened": 0,
-            "crippled": 0,
-            "eviscerated": 0,
-            "motivated": 0,
-            "sleep": 0,
-            "confused": 0
-        },
-        "received": {
-            "demoralized": 0,
-            "frozen": 0,
-            "withered": 0,
-            "slowed": 0,
-            "weakened": 0,
-            "crippled": 0,
-            "eviscerated": 0,
-            "motivated": 0,
-            "sleep": 0,
-            "confused": 0
-        },
-    }
-    h_track.dot_effects = {
-        "burning": {
-            "damage": 0,
-            "turns": 0
-        },
-        "severe_burning": {
-            "damage": 0,
-            "turns": 0
-        },
-        "lacerated": {
-            "damage": 0,
-            "turns": 0
-        },
-        "poisoned": {
-            "damage": 0,
-            "turns": 0
-        }
-    }
-    h_track.temp_effects = {
-        "epinephrine": {
-            "time": 0
-        },
-        "melatonin": {
-            "time": 0
-        },
-        "serotonin": {
-            "time": 0
-        },
-        "tyrosine": {
-            "time": 0
-        },
-        "smoke_grenade": {
-            "number": 0,
-            "time_one": 0,
-            "time_two": 0,
-        },
-        "tear_gas": {
-            "number": 0,
-            "time_one": 0,
-            "time_two": 0,
-        },
-        "flash_grenade": {
-            "number": 0,
-            "time_one": 0,
-            "time_two": 0,
-        },
-        "pepper_spray": {
-            "number": 0,
-            "time_one": 0,
-            "time_two": 0,
-        },
-        "sand": {
-            "number": 0,
-            "time_one": 0,
-            "time_two": 0,
-        },
-        "concussion_grenade": {
-            "number": 0,
-            "time_one": 0,
-            "time_two": 0,
-        }
-    }
-    v_track.status_effects = {
-        "dealt": {
-            "demoralized": 0,
-            "frozen": 0,
-            "withered": 0,
-            "slowed": 0,
-            "weakened": 0,
-            "crippled": 0,
-            "eviscerated": 0,
-            "motivated": 0,
-            "sleep": 0,
-            "confused": 0
-        },
-        "received": {
-            "demoralized": 0,
-            "frozen": 0,
-            "withered": 0,
-            "slowed": 0,
-            "weakened": 0,
-            "crippled": 0,
-            "eviscerated": 0,
-            "motivated": 0,
-            "sleep": 0,
-            "confused": 0
-        },
-    }
-    v_track.dot_effects = {
-        "burning": {
-            "damage": 0,
-            "turns": 0
-        },
-        "severe_burning": {
-            "damage": 0,
-            "turns": 0
-        },
-        "lacerated": {
-            "damage": 0,
-            "turns": 0
-        },
-        "poisoned": {
-            "damage": 0,
-            "turns": 0
-        },
-        "bleed": {
-            "damage": 0,
-            "turns": 0
-        }
-    }
-    v_track.temp_effects = {
-        "epinephrine": {
-            "time": 0
-        },
-        "melatonin": {
-            "time": 0
-        },
-        "serotonin": {
-            "time": 0
-        },
-        "tyrosine": {
-            "time": 0
-        },
-        "smoke_grenade": {
-            "number": 0,
-            "time_one": 0,
-            "time_two": 0,
-        },
-        "tear_gas": {
-            "number": 0,
-            "time_one": 0,
-            "time_two": 0,
-        },
-        "flash_grenade": {
-            "number": 0,
-            "time_one": 0,
-            "time_two": 0,
-        },
-        "pepper_spray": {
-            "number": 0,
-            "time_one": 0,
-            "time_two": 0,
-        },
-        "sand": {
-            "number": 0,
-            "time_one": 0,
-            "time_two": 0,
-        },
-        "concussion_grenade": {
-            "number": 0,
-            "time_one": 0,
-            "time_two": 0,
-        }
-    }
+    h_track.status_effects = s.STATUS_EFFECTS;
+    h_track.dot_effects = s.DOT_EFFECTS;
+    h_track.temp_effects = s.TEMP_EFFECTS;
+    v_track.status_effects = s.STATUS_EFFECTS;
+    v_track.dot_effects = s.DOT_EFFECTS;
+    v_track.temp_effects = s.TEMP_EFFECTS;
 
     let log;
     for (let i = 0; i < 25; i++) {
@@ -482,7 +313,7 @@ function take_turns(h, v, h_track, v_track, f_track) {
     f_track.turns += 1, f_track.time -= 1;
     let log = "";
 
-    // random life tick
+    // random life tick - probably need a switch to disable
     if (f_track.life_tick == false) {
         rng = Math.floor(Math.random() * 300 + 1)
         if (rng == 1) {
@@ -573,7 +404,6 @@ function action(log, x, y, x_track, y_track, f_track) {
     // if stun procs and stun == 1, set to 4 for attack and 3 for defend
     // if stun == 3 or 4, enemy is stunned, reduce to 1
     // lets test...
-
 
     if (x_track.status_effects.received.paralyzed > 0) {
         if (x_track.status_effects.received.paralyzed == 1) {
@@ -686,13 +516,25 @@ function action(log, x, y, x_track, y_track, f_track) {
                     }
                 } else if (dot == "severe_burning") {
 
-                    dotDMG = parseInt(x_track.dot_effects[dot].damage * (0.15 / 5 * (10 - x_track.dot_effects[dot].turns)))
+                    dotDMG = parseInt(x_track.dot_effects[dot].damage * (0.15 / 5 * (6 - x_track.dot_effects[dot].turns)))
                     if (dotDMG > y_track.current_life - 1) {
                         dotDMG = y_track.current_life - 1;
                     }
                     log += "Severe burning damaged " +  y.name + " for " + dotDMG + "\n";
 
                     if (x_track.dot_effects[dot].turns == 5) {
+                        x_track.dot_effects[dot].damage = 0;
+                        x_track.dot_effects[dot].turns = 0;
+                    }
+                } else if (dot == "bleeding") {
+
+                    dotDMG = parseInt(x_track.dot_effects[dot].damage * (0.40 / 9 * (10 - x_track.dot_effects[dot].turns)))
+                    if (dot_DMG > y_track.current_life) {
+                        dot_DMG = y_track.current_life;
+                    }
+                    log += "Bleeding damage " + y.name + " for " + dotDMG + "\n";
+
+                    if (x_track.dot_effects[dot].turns == 9) {
                         x_track.dot_effects[dot].damage = 0;
                         x_track.dot_effects[dot].turns = 0;
                     }
@@ -740,7 +582,7 @@ function action(log, x, y, x_track, y_track, f_track) {
                 if (xCW == "temporary" && xW[xCW].name != "Ninja Stars" && xW[xCW].name != "Throwing Knife") {
                     xBP = ["chest",1/1.75];
                 } else {
-                    xBP = selectBodyPart(x,x_track.bonus.crit_rate);
+                    xBP = selectBodyPart(x,x_track.bonus.crit_rate,xW[xCW].bonus);
                 }
 
                 let mitigation = armorMitigation(xBP[0],yA)
@@ -791,6 +633,81 @@ function action(log, x, y, x_track, y_track, f_track) {
             }
 
         }
+
+        let x_bonus1_proc, x_bonus2_proc;
+        if (xW[xCW].bonus.bonus_one.name != "n/a" && xW[xCW].bonus.bonus_two.name != "n/a") {
+
+            // there are two bonuses,
+            // if both have to proc, they can't proc at the same time -> one is chosen by default
+
+            // must both be specials required to proc vs. % increase/decrease effect
+            if (xW[xCW].bonus.bonus_one.proc == true && xW[xCW].bonus.bonus_two.proc == true) {
+
+                x_bonus1_proc = procBonus(xW[xCW].bonus.bonus_one.proc)
+                x_bonus2_proc = procBonus(xW[xCW].bonus.bonus_two.proc)
+
+                // choose highest proc% bonus; if equal %, flip a coin
+                if (x_bonus1_proc > x_bonus2_proc) {
+                    x_bonus2_proc = 0
+                } else if (x_bonus2_proc > x_bonus1_proc) {
+                    x_bonus1_proc = 0
+                } else if (x_bonus1_proc == x_bonus2_proc) {
+                    let rng = Math.floor(Math.random() * 2 + 1)
+                    if (rng == 1) {
+                        x_bonus1_proc = 0
+                    } else {
+                        x_bonus2_proc = 0
+                    }
+                }
+
+            }
+
+        }
+
+        // BONUS LOOP STARTS HERE //
+        for (bonus in xW[xCW].bonus) {
+
+
+            // BONUSES NOT REQUIRING HIT ++ DMG TO PROC
+            if (bonus.name == "Empower") {
+
+            } else if (bonus.name == "Quicken") {
+
+            } else if (bonus.name == "Fury") {
+
+            } else if (bonus.name == "Rage") {
+
+            } else if (bonus.name == "Double Tap") {
+
+            } else if (bonus.name == "Conserve") {
+                // can maybe be done pre-fight
+            } else if (bonus.name == "Parry") {
+
+            } else if (bonus.name == "Sure Shot") {
+
+            } else if (bonus.name == "Grace") {
+                // GRACE and BESERK must come before hitHOM???
+            } else if (bonus.name == "Beserk") {
+
+            } else if (bonus.name == "Focus") {
+
+            } else if (bonus.name == "Wind-up") {
+
+            } else if (bonus.name == "Home run") {
+                
+            }
+
+
+            if (xDMG != 0 && xHOM == 1) {
+                // BONUSES REQUIRING HIT ++ DMG TO PROC
+
+            }
+
+        }
+
+
+
+
 
         if (xCW == "primary") {
 
@@ -925,7 +842,7 @@ function action(log, x, y, x_track, y_track, f_track) {
 
                                     let mitigation = armorMitigation(xBP[0],yA)
 
-                                    xBP = selectBodyPart(x_track.bonus.crit_rate);
+                                    xBP = selectBodyPart(x_track.bonus.crit_rate,xW[xCW].bonus);
                                     yAM = (100 - mitigation[0]/x_pen)/100;
                                     xDV = variance();
                                     xDMG = Math.round(xBP[1] * xMD * yDM * xWD * yAM * xDV * (1+x_track.bonus.dmg/100) * x_ammo_dmg);
@@ -1688,7 +1605,7 @@ function hitOrMiss(hitChance) {
 
 }
 
-function selectBodyPart(x,critChance) {
+function selectBodyPart(x,critChance,bonus) {
 
   let bodyPart = "";
   let rng = Math.floor(Math.random() * 1000 + 1)
@@ -1705,6 +1622,11 @@ function selectBodyPart(x,critChance) {
       } else if (rng2 > 21 && rng2 <= 101) {
           bodyPart = ["head",1];
       }
+
+      if (bonus.name == "Deadeye") {
+          bodyPart[1] *= (1 + bonus.proc/100)
+      }
+
   } else {
       // non-crit
       let rng2 = Math.floor(Math.random() * 100 + 1)

@@ -35,8 +35,16 @@
                "two":"n/a"
             },
             "bonus":{
-               "name":"n/a",
-               "proc":"n/a"
+                "bonus_one" {
+                    "name":"n/a",
+                    "percent": "n/a"
+                    "proc": true
+                },
+                "bonus_two": {
+                    "name": "n/a"
+                    "percent": "n/a"
+                    "proc": false
+                }
             }
          },
          "secondary":{
@@ -1380,101 +1388,101 @@
     }
 },
    "7":{
-  "position":"attack",
-  "name":"Regular-test",
-  "id":7,
-  "battlestats":{
+        "position":"attack",
+        "name":"GAK-test",
+        "id":7,
+        "battlestats":{
      "strength":1000000000,
      "speed":1000000000,
      "defense":1000000000,
      "dexterity":1000000000,
      "total":400000000
   },
-  "passives":{
+        "passives":{
      "strength":0,
      "speed":0,
      "defense":0,
      "dexterity":0
   },
-  "life":7500,
-  "weapons":{
-     "primary":{
-        "name":"ArmaLite",
-        "category":"Rifle",
-        "damage":70,
-        "accuracy":57,
-        "clipsize":15,
-        "rateoffire":[
-           3,
-           5
-        ],
-        "ammo":"",
-        "experience":0,
-        "mods":{
-           "one":"n/a",
-           "two":"n/a"
+        "life":7500,
+        "weapons":{
+            "primary":{
+                "name":"GAK",
+                "category":"Rifle",
+                "damage":76.38,
+                "accuracy":65.89,
+                "clipsize":45,
+                "rateoffire":[
+                    4,
+                    6
+                ],
+                "ammo":"",
+                "experience":100,
+                "mods":{
+                    "one":"Tactical Illuminator",
+                    "two":"100mW Laser"
+                },
+                "bonus":{
+                    "name":"Demoralize",
+                    "proc":21
+                }
+            },
+            "secondary":{
+                "name":"Blowgun",
+                "category":"Piercing",
+                "damage":66,
+                "accuracy":35,
+                "clipsize":1,
+                "rateoffire":[
+                    1,
+                    1
+                ],
+                "experience":0,
+            "ammo":"",
+            "mods":{
+                "one":"n/a",
+                "two":"n/a"
+            },
+            "bonus":{
+                "name":"Poison",
+                "proc":90
+            }
         },
-        "bonus":{
-           "name":"n/a",
-           "proc":"n/a"
-        }
-     },
-     "secondary":{
-        "name":"Blowgun",
-        "category":"Piercing",
-        "damage":66,
-        "accuracy":35,
-        "clipsize":1,
-        "rateoffire":[
-           1,
-           1
-        ],
-        "experience":0,
-        "ammo":"",
-        "mods":{
-           "one":"n/a",
-           "two":"n/a"
+        "melee":{
+            "name":"Metal Nunchakus",
+            "category":"Clubbing",
+            "damage":62,
+            "accuracy":60,
+            "experience":0,
+            "bonus":{
+                "name":"n/a",
+                "proc":0
+            }
         },
-        "bonus":{
-           "name":"Poison",
-           "proc":90
+        "temporary":{
+            "name":"Smoke Grenade",
+            "category":"Non-Damaging",
+            "damage":71.48,
+            "accuracy":116,
+            "experience":0,
+            "bonus":{
+                "name":"n/a",
+                "proc":"n/a"
+            }
+        },
+        "fists":{
+            "damage":12.14,
+            "accuracy":50.00,
+            "category":"Unarmed"
+        },
+        "kick":{
+            "damage":37.44,
+            "accuracy":40.71,
+            "category":"Unarmed"
         }
-     },
-     "melee":{
-        "name":"Metal Nunchakus",
-        "category":"Clubbing",
-        "damage":62,
-        "accuracy":60,
-        "experience":0,
-        "bonus":{
-           "name":"n/a",
-           "proc":0
-        }
-     },
-     "temporary":{
-        "name":"Smoke Grenade",
-        "category":"Non-Damaging",
-        "damage":71.48,
-        "accuracy":116,
-        "experience":0,
-        "bonus":{
-           "name":"n/a",
-           "proc":"n/a"
-        }
-     },
-     "fists":{
-        "damage":12.14,
-        "accuracy":50.00,
-        "category":"Unarmed"
-     },
-     "kick":{
-        "damage":37.44,
-        "accuracy":40.71,
-        "category":"Unarmed"
-     }
-  },
-  "armor":{
-     "head":{
+    },
+        "armor":{
+            "head":{
         "type":"Motorcycle Helmet",
         "armor":30,
         "set":"n/a",
@@ -1483,7 +1491,7 @@
            "value":0
         }
      },
-     "body":{
+            "body":{
         "type":"Full Body Armor",
         "armor":31,
         "set":"n/a",
@@ -1492,7 +1500,7 @@
            "value":0
         }
      },
-     "hands":{
+            "hands":{
         "type":"Combat Gloves",
         "armor":38,
         "set":"Combat",
@@ -1501,7 +1509,7 @@
            "value":0
         }
      },
-     "legs":{
+            "legs":{
         "type":"Combat Pants",
         "armor":38,
         "set":"Combat",
@@ -1510,22 +1518,22 @@
            "value":0
         }
      },
-     "feet":{
-        "type":"Combat Boots",
-        "armor":38,
-        "set":"Combat",
-        "bonus":{
-           "name":"n/a",
-           "value":0
-        }
-    }
-  },
-  "weaponsettings":{
+            "feet":{
+                "type":"Combat Boots",
+                "armor":38,
+                "set":"Combat",
+                "bonus":{
+                    "name":"n/a",
+                    "value":0
+                }
+            }
+        },
+        "weaponsettings":{
      "attacksettings":{
         "type":"standard",
         "primary":{
            "setting":1,
-           "reload":false
+           "reload":true
         },
         "secondary":{
            "setting":0,
@@ -1546,7 +1554,7 @@
      "defendsettings":{
         "primary":{
            "setting":100,
-           "reload":false
+           "reload":true
         },
         "secondary":{
            "setting":0,
@@ -1562,7 +1570,7 @@
         "unarmed":"fists"
      }
   },
-  "perks":{
+        "perks":{
      "education":{
         "damage":0,
         "neckdamage":0,
@@ -1597,7 +1605,7 @@
         "critrate":0,
         "heavyartillerymastery":0,
         "machinegunmastery":0,
-        "riflemastery":0,
+        "riflemastery":10,
         "smgmastery":0,
         "shotgunmastery":0,
         "pistolmastery":0,
@@ -1608,7 +1616,7 @@
         "temporarymastery":0
      }
   }
-},
+    },
    "8":{
    "position":"attack",
    "name":"EDM_mix-test",
@@ -2068,5 +2076,235 @@
         "temporarymastery":0
      }
   }
-}
+},
+   "10":{
+       "position":"attack",
+       "name":"Deadeye-Tavor",
+       "id":10,
+       "battlestats":{
+           "strength":1000000000,
+           "speed":1000000000,
+           "defense":1000000000,
+           "dexterity":1000000000,
+           "total":400000000
+       },
+       "passives":{
+           "strength":0,
+           "speed":0,
+           "defense":0,
+           "dexterity":0
+       },
+       "life":7500,
+       "weapons":{
+           "primary":{
+               "name":"Tavor",
+               "category":"Rifle",
+               "damage":82.49,
+               "accuracy":62.47,
+               "clipsize":30,
+               "rateoffire":[
+                   4,
+                   8
+               ],
+               "ammo":"",
+               "experience":100,
+               "mods":{
+                   "one":"Tactical Illuminator",
+                   "two":"100mW Laser"
+               },
+               "bonus":{
+                   "name":"Deadeye",
+                   "proc":90
+               }
+           },
+           "secondary":{
+               "name":"Blowgun",
+               "category":"Piercing",
+               "damage":66,
+               "accuracy":35,
+               "clipsize":1,
+               "rateoffire":[
+                   1,
+                   1
+               ],
+               "experience":0,
+               "ammo":"",
+               "mods":{
+                   "one":"n/a",
+                   "two":"n/a"
+               },
+               "bonus":{
+                   "name":"Poison",
+                   "proc":90
+               }
+           },
+           "melee":{
+               "name":"Metal Nunchakus",
+               "category":"Clubbing",
+               "damage":62,
+               "accuracy":60,
+               "experience":0,
+               "bonus":{
+                   "name":"n/a",
+                   "proc":0
+               }
+           },
+           "temporary":{
+               "name":"Smoke Grenade",
+               "category":"Non-Damaging",
+               "damage":71.48,
+               "accuracy":116,
+               "experience":0,
+               "bonus":{
+                   "name":"n/a",
+                   "proc":"n/a"
+               }
+           },
+           "fists":{
+               "damage":12.14,
+               "accuracy":50.00,
+               "category":"Unarmed"
+           },
+           "kick":{
+               "damage":37.44,
+               "accuracy":40.71,
+               "category":"Unarmed"
+           }
+       },
+       "armor":{
+  "head":{
+     "type":"Motorcycle Helmet",
+     "armor":30,
+     "set":"n/a",
+     "bonus":{
+        "name":"n/a",
+        "value":0
+     }
+  },
+  "body":{
+     "type":"Full Body Armor",
+     "armor":31,
+     "set":"n/a",
+     "bonus":{
+        "name":"n/a",
+        "value":0
+     }
+  },
+  "hands":{
+     "type":"Combat Gloves",
+     "armor":38,
+     "set":"Combat",
+     "bonus":{
+        "name":"n/a",
+        "value":0
+     }
+  },
+  "legs":{
+     "type":"Combat Pants",
+     "armor":38,
+     "set":"Combat",
+     "bonus":{
+        "name":"n/a",
+        "value":0
+     }
+  },
+  "feet":{
+     "type":"Combat Boots",
+     "armor":38,
+     "set":"Combat",
+     "bonus":{
+        "name":"n/a",
+        "value":0
+     }
+ }
+},
+        "weaponsettings":{
+            "attacksettings":{
+            "type":"standard",
+            "primary":{
+                "setting":1,
+                "reload":true
+            },
+            "secondary":{
+                "setting":0,
+                "reload":false
+            },
+            "melee":{
+                "setting":2
+            },
+            "temporary":{
+                "setting":0,
+                "initial_setting":0
+            },
+            "unarmed":"fists",
+            "escape":false,
+            "wait_temp_one":true,
+            "wait_all_temps":true
+        },
+            "defendsettings":{
+            "primary":{
+                "setting":100,
+                "reload":true
+            },
+            "secondary":{
+                "setting":0,
+                "reload":false
+            },
+            "melee":{
+                "setting":1
+            },
+            "temporary":{
+                "setting":0,
+                "initial_setting":0
+            },
+            "unarmed":"fists"
+        }
+        },
+        "perks":{
+            "education":{
+                "damage":0,
+                "neckdamage":0,
+                "meleedamage":false,
+                "tempdamage":0,
+                "japanesedamage":0,
+                "fistdamage":0,
+                "critchance":0,
+                "machinegunaccuracy":0,
+                "smgaccuracy":0,
+                "pistolaccuracy":0,
+                "rifleaccuracy":0,
+                "heavyartilleryaccuracy":0,
+                "temporaryaccuracy":0,
+                "shotgunaccuracy":0,
+                "ammocontrol1":false,
+                "ammocontrol2":false,
+                "needleeffect":false
+            },
+            "faction":{
+            "accuracy":0,
+            "damage":0
+        },
+            "company":{
+            "name":"n/a",
+            "star":0
+        },
+            "property":{
+            "damage":0
+        },
+            "merits":{
+            "critrate":0,
+            "heavyartillerymastery":0,
+            "machinegunmastery":0,
+            "riflemastery":10,
+            "smgmastery":0,
+            "shotgunmastery":0,
+            "pistolmastery":0,
+            "clubbingmastery":0,
+            "piercingmastery":0,
+            "slashingmastery":0,
+            "mechanicalmastery":0,
+            "temporarymastery":0
+        }
+        }
+    }
 }

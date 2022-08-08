@@ -1,12 +1,12 @@
-Stun = "Adds 300s 'Stunned' effect (misses next turn)" [10 - 40]
-Paralyzed = "Adds 300s 'Paralyzed' effect (50% chance of missing turns)" [5 - 20]
-Suppressed = "Adds 30s 'Suppressed' effect (25% chance of missing turns)" [20 - 60]
+Stun = "Adds 300s 'Stunned' effect (misses next turn)" [10 - 40] // written
+Paralyzed = "Adds 300s 'Paralyzed' effect (50% chance of missing turns)" [5 - 20] // written
+Suppressed = "Adds 30s 'Suppressed' effect (25% chance of missing turns)" [20 - 60] // written
 Bleed = "Adds 'Bleed' effect (DOT) - not exact mechanics" [5 - 20] - 45% over 9
 Eviscerate = "Adds 300s 'Eviscerate' effect upon successful hit (take X% more damage)" [15 - 35]
 Motivation = "Adds 'Motivation' effect (+10% to all your stats, opposite of Demoralize)" [15 - 35]
 Wither, Slow, Cripple, Weaken [20 - 65];
-Expose = "Increase critical hit rate" [5 - 25];
-Empower = "Passively increase strength on all uses of this weapon" [50 - 250]
+Expose = "Increase critical hit rate" [5 - 25]; // shouldn't be written every turn/action
+Empower = "Passively increase strength on all uses of this weapon" [50 - 250] // needs selecting based on weapon so yeah.. 
 Quicken = "Passively increase speed on all uses of this weapon" [50 - 250]
 Puncture = "Chance of ignoring all armor" [20 - 60]
 Deadeye = "Increases critical hit damage" [25 - 125]

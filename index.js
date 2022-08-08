@@ -1,4 +1,3 @@
-const Discord = require('discord.js');
 const bot = new Discord.Client();
 let commands = require('./modules/commands.js')
 let chans = require('./consts/channels.js')
@@ -6,9 +5,10 @@ let roles = require('./consts/roles.js')
 let admin = require('./modules/admin.js');
 let stocks = require('./modules/stocks.js');
 let functions = require('./modules/general.js');
+let config = require('config.js')
 let prefix = '!';
 
-bot.login('ODE1MzI2ODIxMTc5NTg4NjE4.YDqyRg.PRCQ3q8BUIwb_EEngT52TGwSVgQ');
+bot.login(config.token);
 
 bot.on('ready', () => {
     console.info(`Logged in as ${bot.user.tag}!`);
